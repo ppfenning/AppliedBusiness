@@ -1,28 +1,9 @@
-**APPLIED BUSINESS ANALYTICS - Winter 2023**
-
-WENTWORTH INSTITUTE OF TECHNOLOGY
-
-School of Computer/Data Science
-
-Course Number: MGMT-7800
-
-Instructor Name: Daniel Zielaski
-
-Classroom: Virtual
-
-Office Location: Virtual
-
-Schedule: 5:00-6:20 PM Tuesdays
-
-Online Appointments and Meetings: By appointment
-
-Credits: 3/0/3
-
-Office Telephone Number: NA, please use email
-
-Email address:
-[zielaskid\@wit.edu](mailto:dzielaski1@wit.edu);
-[dzielaski\@gmail.com](mailto:dzielaski@gmail.com) (please email both email addresses)
+# APPLIED BUSINESS ANALYTICS - Winter 2023 - WIT - MGMT-7800
+### Instructor Name: Daniel Zielaski
+### Schedule: 5:00-6:20 PM Tuesdays
+### Email address:
+>> [zielaskid\@wit.edu](mailto:dzielaski1@wit.edu);
+>> [dzielaski\@gmail.com](mailto:dzielaski@gmail.com)
 
 **COURSE DESCRIPTION:**
 
