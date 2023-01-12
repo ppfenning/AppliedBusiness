@@ -5,58 +5,57 @@
 >> [zielaskid\@wit.edu](mailto:dzielaski1@wit.edu);
 >> [dzielaski\@gmail.com](mailto:dzielaski@gmail.com)
 
-**COURSE DESCRIPTION:**
+## COURSE DESCRIPTION:
 
-Business management is primarily about making decisions. Business
-analytics is a tool used in managerial decision making, involving data
-analysis methods that are useful to managers. Applied business analytics
-is thus about applying data analytics to managerial decision making. We
-will focus upon distinguishing between uncovering patterns in data and
-identifying the underlying drivers; and help you ask the important data
-science / mining questions. You will use data, data analytics concepts,
-techniques, and state-of-the-art tools to make faster and better
-business decisions. Data, statistical and quantitative analysis,
-exploratory and predictive models, and the Python programming language
-will be reviewed.
+>Business management is primarily about making decisions. Business
+>analytics is a tool used in managerial decision making, involving data
+>analysis methods that are useful to managers. Applied business analytics
+>is thus about applying data analytics to managerial decision making. We
+>will focus upon distinguishing between uncovering patterns in data and
+>identifying the underlying drivers; and help you ask the important data
+>science / mining questions. You will use data, data analytics concepts,
+>techniques, and state-of-the-art tools to make faster and better
+>business decisions. Data, statistical and quantitative analysis,
+>exploratory and predictive models, and the Python programming language
+>will be reviewed.
 
-**COURSE PREREQUISITES/COREQUISITES:**
+## COURSE PREREQUISITES/COREQUISITES:
 
-Students are expected/required to independently set-up and configure all
-required software.
+>Students are expected/required to independently set-up and configure all
+>required software.
+>
+>Students are expected/required to use syntax appropriately.
 
-Students are expected/required to use syntax appropriately.
+## REQUIRED TEXTBOOK(S):
 
-**REQUIRED TEXTBOOK(S):**
+>Please see the [list of articles from Harvard Business Review
+>(HBR)](https://docs.google.com/document/d/1a3m7gx0S1DDsdLuJMFiPHIYddqkXF0xfaU5DCRjXrVc/edit).
 
-Please see the [list of articles from Harvard Business Review
-(HBR)](https://docs.google.com/document/d/1a3m7gx0S1DDsdLuJMFiPHIYddqkXF0xfaU5DCRjXrVc/edit).
+## RECOMMENDED LEARNING MATERIALS (NOT REQUIRED):
 
-**RECOMMENDED LEARNING MATERIALS (NOT REQUIRED):**
+### Here are a few books that cover using Python for data science:
+>### "Python for Data Science Handbook" by Jake VanderPlas: 
+>>This book provides a thorough introduction to using Python for data science,
+>>including working with scientific libraries such as NumPy and pandas,
+>>and using Jupyter notebooks.
+>
+>### "Data Science from Scratch: First Principles with Python" by Joel Grus: 
+>>This book covers the basics of data science and machine learning,
+>>including working with data in Python using libraries such as NumPy and
+>>pandas.
+>
+>### "Doing Data Science: Straight Talk from the Frontline" by Cathy O\'Neil and Rachel Schutt: 
+>>This book provides an overview of data
+>>science, including using Python for data manipulation, visualization,
+>>and machine learning.
+>
+>### "Python Data Science Cookbook\" by Packt Publishing: 
+>> This cookbook
+>> provides a collection of recipes for using Python for data science,
+>> including working with data, visualizing data, and applying machine
+>> learning algorithms.
 
-Here are a few books that cover using Python for data science:
-
-### "Python for Data Science Handbook" by Jake VanderPlas: 
->This book provides a thorough introduction to using Python for data science,
->including working with scientific libraries such as NumPy and pandas,
->and using Jupyter notebooks.
-
-### "Data Science from Scratch: First Principles with Python" by Joel Grus: 
->This book covers the basics of data science and machine learning,
->including working with data in Python using libraries such as NumPy and
->pandas.
-
-### "Doing Data Science: Straight Talk from the Frontline" by Cathy O\'Neil and Rachel Schutt: 
->This book provides an overview of data
->science, including using Python for data manipulation, visualization,
->and machine learning.
-
-### "Python Data Science Cookbook\" by Packt Publishing: 
-> This cookbook
-> provides a collection of recipes for using Python for data science,
-> including working with data, visualizing data, and applying machine
-> learning algorithms.
-
-**COURSE LEARNING OUTCOMES**
+## COURSE LEARNING OUTCOMES
 
 ### At or before the conclusion of the course, the student should be able to:
 
@@ -82,25 +81,24 @@ Here are a few books that cover using Python for data science:
     > communicate those solutions effectively using data visualization
     > techniques.
 
-INSTRUCTIONAL METHODOLOGIES:
+## INSTRUCTIONAL METHODOLOGIES:
 
 We will be using a combination of classroom and online instructional
 methodologies including but not limited to lectures (in person and
 recorded), discussions (classroom and online), and practical
 application.
 
-ATTENDANCE POLICY:
+## ATTENDANCE POLICY:
 
 Your attendance is expected and necessary to understand the materials
 and subject matter. If you miss more than one (1) class session without
 an Institute-approved excused absence, you may be officially withdrawn
 from the course.
 
-GRADING POLICY:
+## GRADING POLICY:
 
 Your final grade will be determined by computing your scores (in
 different components of the course) as follows: 
-
 
 | Left-Aligned       | Count | Percent | Group or Individual |
 |:-------------------|:-----:|:-------:|--------------------:|
@@ -111,35 +109,24 @@ different components of the course) as follows:
 | Attendance         |  N/A  |   5%    |          Individual | 
 | Incentives/rewards |  N/A  |   5%    |          Individual | 
 
-**Grade Weight Numerical Definition Definition**
+## Grade Weight Numerical Definition Definition
 
-**A** 4.00 93-100 Distinction
-
-**A-** 3.67 90-92 High Pass
-
-**B+** 3.33 87-89 Pass
-
-**B** 3.00 83-86 Pass
-
-**B-** 2.67 80-82 Provisional
-
-**C+** 2.33 77-79 Provisional
-
-**C** 2.00 73-76 Provisional
-
-**F** 0.00 0-72 No Pass
-
-**P** 0.00 Pass (for credit)
-
-**S** 0.00 Satisfactory (no credit)
-
-**U** 0.00 Unsatisfactory (no credit)
-
-**W** 0.00 Withdrew
-
-**IC** 0.00 Incomplete
-
-**NR** 0.00 Not Reported
+| Letter | GPA  | Range  | Classification                 |
+|:-------|:----:|:------:|:-------------------------------|
+| A      | 4.00 | 93-100 | Distinction                    |
+| A-     | 3.67 | 90-92  | High Pass                      |
+| B+     | 3.33 | 87-89  | Pass                           |
+| B      | 3.00 | 83-86  | Pass                           |
+| B-     | 2.67 | 80-82  | Provisional                    |
+| C+     | 2.33 | 77-79  | Provisional                    |
+| C      | 2.00 | 73-76  | Provisional                    |
+| F      | 0.00 |  0-72  | No                             |Pass|
+| P      | 0.00 |  N/A   | Pass (for credit)              |
+| S      | 0.00 |  N/A   | Satisfactory (no credit)       |
+| U      | 0.00 |  N/A   | Unsatisfactory (no credit)     |
+| W      | 0.00 |  N/A   | Withdrew                       |
+| IC     | 0.00 |  N/A   | Incomplete                     |
+| NR     | 0.00 |  N/A   | Not Reported                   |
 
 Grades of "P" or "F" are awarded to courses with this grading scheme
 and carry academic credit. "P" or "F" grades do not calculate into
