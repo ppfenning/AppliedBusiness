@@ -197,8 +197,8 @@ different components of the course) as follows:
 >College can be challenging and it is common to feel overwhelmed or
 >stressed at times. If these feelings are related to course work or
 >academic performance, please talk to me. For more significant mental
->health concerns, **The Center for Wellness (003 Watson Hall\*,
->617-989-4390)** provides free and confidential mental health counseling.
+>health concerns, **The Center for Wellness** provides free and confidential 
+> mental health counseling.
 >
 >If you or someone you know needs support around thoughts of suicide, the
 >following resources are available:
