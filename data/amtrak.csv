@@ -1,0 +1,974 @@
+Code,StationName,Staffed,StationType,City,State,Zip,Country,Division,PublicPhone,TicketOffice,QuikTrak,MetrolinkTVM,CheckedBaggage,AmtrakExpress,HandleUSMail,Lounge,UnaccompaniedChildren,AdvPayPPO,AmtrakTrains,Non-AmtrakTrains,DedicatedThruway,CoordinatedThruway,OtherTransportation,GroupCity,IATACode,IATAName,NonAmtrakTicketSale,TimeZone,ObserveDayLightSaving,CheckInWService,CheckInWOService,Elevation,Population
+ABB,"Abbotsford-Colby, Wisconsin",N,Curbside Bus Stop only (no shelter),Colby,WI,54421,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,1398,
+ABE,"Aberdeen, Maryland",N,Station Building (with waiting room),Aberdeen,MD,21001-3701,United States,Mid-Atlantic,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,,E,Y,30,30,90,18000
+ABN,"Absecon, New Jersey",N,Platform with Shelter,Absecon,NJ,08201,United States,Northeast,973-275-5555,N,N,N,N,N,N,N,N,Y,N,Y,N,N,,,,,,E,Y,30,30,20,8065
+ABQ,"Albuquerque, New Mexico",Y,Station Building (with waiting room),Albuquerque,NM,87102-3405,United States,Southwest,505-842-9650,Y,Y,N,Y,N,N,N,Y,Y,Y,Y,N,Y,Y,,,,Via Rail Canada,M,Y,60,30,4959,450000
+ACA,"Antioch-Pittsburg, California",N,Platform with Shelter,Antioch,CA,94509-1122,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,14,100586
+ACY,"Atlantic City, New Jersey",N,Station Building (with waiting room),Atlantic City,NJ,08401-4106,United States,Northeast,973-491-9400,N,Y,N,N,N,N,N,N,Y,N,Y,N,N,N,,,,New Jersey Transit,E,Y,30,30,7,37000
+ADA,ADA Seat Removal,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+ADM,"Ardmore, Oklahoma",N,Station Building (with waiting room),Ardmore,OK,73401-7016,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,871,24810
+AGM,"Augusta, Maine",N,Curbside Bus Stop only (no shelter),Augusta,ME,04330,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,225,
+AHL,"Ashland, Oregon",N,Curbside Bus Stop only (no shelter),Ashland,OR,97520,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,N,,,,Bus Company,P,Y,30,30,1954,20881
+AKY,"Ashland, Kentucky",N,Station Building (with waiting room),Ashland,KY,41101,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,546,21570
+ALB,"Albany-Rensselaer, New York",Y,Station Building (with waiting room),Rensselaer,NY,12144-2310,United States,Northeast,518-462-5710,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,60,30,30,110000
+ALC,"Alliance, Ohio",N,Platform only (no shelter),Alliance,OH,44601,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,1078,23376
+ALD,"Alderson, West Virginia",N,Platform with Shelter,Alderson,WV,24910,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,1550,1086
+ALI,"Albion, Michigan",N,Station Building (with waiting room),Albion,MI,49224,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,No,E,Y,30,30,948,12115
+ALM,"Alpena, Michigan",N,Curbside Bus Stop only (no shelter),Alpena,MI,49707,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,N,30,30,627,
+ALN,"Alton, Illinois",Y,Station Building (with waiting room),Alton,IL,62002-5000,United States,Central,618-462-1879,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,491,29269
+ALP,"Alpine, Texas",N,Station Building (with waiting room),Alpine,TX,79830,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,4483,6035
+ALT,"Altoona, Pennsylvania",Y,Station Building (with waiting room),Altoona,PA,16601,United States,Mid-Atlantic,814-946-1100,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,30,30,1180,56500
+ALX,"Alexandria, Virginia",Y,Station Building (with waiting room),Alexandria,VA,22301-2752,United States,Mid-Atlantic,703-836-4339,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,,,,Via Rail Canada,E,Y,60,30,30,136974
+ALY,"Albany, Oregon",Y,Station Building (with waiting room),Albany,OR,97321-2457,United States,Pacific Northwest,541-928-0885,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,Y,Y,,,,Via Rail Canada,P,Y,45,30,223,40852
+AMM,"Amherst, Massachusetts",N,Platform with Shelter,Amherst,MA,01002-2318,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,258,34049
+AMS,"Amsterdam, New York",N,Platform only (no shelter),Amsterdam,NY,12010-1053,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,270,22000
+ANA,"Anaheim, California",Y,Station Building (with waiting room),Anaheim,CA,92806,United States,Southwest,714-385-1448,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,,,,Via Rail Canada,P,Y,45,30,157,200100
+APP,"Appleton, Wisconsin",N,Curbside Bus Stop only (no shelter),Appleton,WI,54911-5448,United States,Central,414-733-2318,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,30,30,791,70191
+ARB,"Ann Arbor, Michigan",Y,Station Building (with waiting room),Ann Arbor,MI,48104,United States,Central,734-994-4906,Y,Y,N,N,N,N,N,Y,Y,Y,N,Y,N,N,,,,VIA Rail Canada,E,Y,30,30,780,99797
+ARC,"Arcata, California",N,Curbside Bus Stop only (no shelter),Arcata,CA,95521-6239,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,33,14140
+ARD,"Ardmore, Pennsylvania",N,Station Building (with waiting room),Ardmore,PA,19003,United States,Mid-Atlantic,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,Septa,E,Y,30,30,358,12616
+ARI,"Astoria (Shell Station Mini Mart), Oregon",N,Curbside Bus Stop only (no shelter),Astoria,OR,97103,United States,Pacific,503-325-4162,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,ARX,,,For Bus to PDX,P,Y,30,30,21,9813
+ARK,"Arkadelphia, Arkansas",N,Platform with Shelter,Arkadelphia,AR,71923-6237,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,192,10475
+ARN,"Auburn, California",N,Platform with Shelter,Auburn,CA,95603,United States,Pacific,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,1271,13000
+ART,"Astoria (Transit Center), Oregon",N,Curbside Bus Stop only (no shelter),Astoria,OR,97103,United States,Pacific Northwest,503-861-7433,N,N,N,N,N,N,N,N,Y,N,N,Y,N,Y,,,,Bus to Portland,P,Y,30,30,10,
+ASD,"Ashland, Virginia",N,Platform with Shelter,Ashland,VA,23005,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,212,5800
+AST,"Aldershot, Ontario",Y,Station Building (with waiting room),Aldershot,ON,L7T 4A8,Canada,VIA Rail Canada Inc.,888-842-7245,Y,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,XLY,VIAnet:  ALDR,VIA Rail Canada,E,Y,30,30,351,3868
+ATA,"Atascadero, California",N,Curbside Bus Stop only (no shelter),Atascadero,CA,93422,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,855,20000
+ATI,"Athol, Idaho",N,Curbside Bus Stop only (no shelter),Athol,ID,83801,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,2405,
+ATL,"Atlanta, Georgia",Y,Station Building (with waiting room),Atlanta,GA,30309,United States,Southern,404-881-3060,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,90,90,889,4000000
+ATN,"Anniston, Alabama",N,Station Building (with waiting room),Anniston,AL,36201,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,677,24052
+ATO,"Atco, New Jersey",N,Platform with Shelter,Atco,NJ,08004,United States,Northeast,973-275-5555,N,N,N,N,N,N,N,N,Y,N,Y,N,N,,,,,,E,Y,30,30,159,14300
+AUS,"Austin, Texas",Y,Station Building (with waiting room),Austin,TX,78703,United States,Southwest,512-476-5684,Y,Y,N,Y,N,N,N,Y,Y,Y,N,N,N,N,,,,VIA Rail Canada,C,Y,60,30,463,644000
+BAG,Baggage,,Pseudo Station,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BAK,"Baker City, Oregon",N,Station Building (with waiting room),Baker City,OR,97814,United States,Pacific Northwest,541-523-5011,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound only,P,Y,30,30,3432,9000
+BAL,"Baltimore (Penn Station), Maryland",Y,Station Building (with waiting room),Baltimore,MD,21201-5815,United States,Mid-Atlantic,410-291-4262,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,N,N,,,,MARC/Via Rail Canada,E,Y,60,30,70,651000
+BAM,"Bangor, Michigan",N,Station Building (with waiting room),Bangor,MI,49013-1464,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,655,1889
+BAN,"Bangor, Maine",N,Station Building (with waiting room),Bangor,ME,04401-3011,United States,Northeast,207-945-4000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Concord Trailways,E,Y,30,30,151,31008
+BAR,"Barstow (Amtrak), California",N,Platform with Shelter,Barstow,CA,92311,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,N,BAX,,,,P,Y,30,30,2105,23628
+BAT,"Bath, Maine",N,Curbside Bus Stop only (no shelter),Bath,ME,04530-6018,United States,Northeast,207-443-1457,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Concord Trailways,E,Y,30,30,32,9184
+BAV,"Barnesville, Maryland",,Pseudo Station,Barnesville,MD,20841,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+BBS,"Barstow (Bus), California",N,Curbside Bus Stop only (no shelter),Barstow,CA,92311-3239,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,Y,BAX,,,,P,Y,30,30,2106,23628
+BBY,"Boston (Back Bay), Massachusetts",Y,Station Building (with waiting room),Boston,MA,02116-5162,United States,Northeast,617-345-7998,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,N,,,,,E,Y,30,30,20,641000
+BCA,"Baltimore (Camden Station), Maryland",,Pseudo Station,Baltimore,MD,21230,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+BCV,"Burke Centre, Virginia",N,Platform with Shelter,Burke,VA,22015,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,Y,,,,,,,,E,Y,30,30,297,
+BCY,"Bay City, Michigan",N,Station Building (with waiting room),Bay City,MI,48708,United States,Central,989-893-6589,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,Indian Trails,E,Y,30,30,591,
+BDR,"Bend (Riverhouse), Oregon",N,Platform with Shelter,Bend,OR,97701,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,BDX,,,,P,Y,30,30,3534,71892
+BDT,"Bradenton, Florida",N,Curbside Bus Stop only (no shelter),Bradenton,FL,34205-7803,United States,Southern,000-000-0000,N,N,N,Y,N,N,N,N,Y,N,N,Y,N,N,,,,,E,Y,30,30,14,53662
+BED,"Bend (Bus Station), Oregon",N,Station Building (with waiting room),Bend,OR,97701,United States,Pacific Northwest,541-382-2151,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,BDX,,,For bus companies,P,Y,30,30,3664,71892
+BEL,"Bellingham, Washington",Y,Station Building (with waiting room),Bellingham,WA,98225,United States,Pacific Northwest,360-734-8851,Y,Y,N,Y,N,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,P,Y,45,30,13,80000
+BEN,"Benson, Arizona",N,Platform with Shelter,Benson,AZ,85602-6611,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,N,30,30,3589,4890
+BER,"Berlin, Connecticut",Y,Station Building (with waiting room),Kensington,CT,06037,United States,Northeast,860-828-9718,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,45,30,62,15121
+BET,"South Beloit, Illinois",N,Curbside Bus Stop only (no shelter),South Beloit,IL,61080-9723,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,C,Y,30,30,798,5507
+BFD,"Bakersfield, California",Y,Station Building (with waiting room),Bakersfield,CA,93301-5319,United States,Pacific,661-395-3175,Y,Y,N,Y,N,N,N,Y,Y,Y,N,Y,Y,Y,,,,Via Rail Canada,P,Y,60,30,406,240000
+BFT,"Belfast, Maine",N,Curbside Bus Stop only (no shelter),Belfast,ME,04915,United States,Northeast,207-338-3239,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,199,6803
+BFX,"Buffalo (Exchange St), New York",Y,Station Building (with waiting room),Buffalo,NY,14203,United States,Northeast,716-856-2075,Y,N,N,N,N,N,N,Y,Y,Y,N,N,Y,N,BUX,,,Via Rail Canada,E,Y,15,15,587,315000
+BGP,"Big Rapids, Michigan",N,Curbside Bus Stop only (no shelter),Big Rapids,MI,49307-2373,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,1004,12603
+BHM,"Birmingham, Alabama",Y,Station Building (with waiting room),Birmingham,AL,35203-3109,United States,Southern,205-324-3033,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,C,Y,60,60,644,1212848
+BIN,"Berlin, New Hampshire",N,Curbside Bus Stop only (no shelter),Berlin,NH,03570-1900,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,941,9954
+BKO,"Brookings, Oregon",N,Station Building (with waiting room),Brookings,OR,97415,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,Bus company,P,Y,15,15,130,
+BKY,"Berkeley, California",N,Platform only (no shelter),Berkeley,CA,94710-1924,United States,Pacific,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,Y,,,,,P,Y,15,15,16,101555
+BLF,"Bellows Falls, Vermont",N,Station Building (with waiting room),Bellows Falls,VT,05101-1356,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,305,3025
+BMM,"Birmingham, Michigan",N,Platform with Shelter,Birmingham,MI,48009,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,750,19185
+BMT,"Beaumont, Texas",N,Platform only (no shelter),Beaumont,TX,77704,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,15,109856
+BNC,"Burlington, North Carolina",N,Station Building (with waiting room),Burlington,NC,27217,United States,Southern,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,662,48400
+BND,"Bend (Hawthorne Intermodal Center), Oregon",N,Curbside Bus Stop only (no shelter),Bend,OR,97701,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,BDX,,,,P,Y,15,15,3646,71892
+BNF,"Branford, Connecticut",,Pseudo Station,Branford,CT,06405,United States,Shore Line East,203-777-7433,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+BNG,"Bingen-White Salmon, Washington",N,Platform with Shelter,Bingen,WA,98605,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,115,500
+BNL,"Bloomington-Normal, Illinois",Y,Station Building (with waiting room),Normal,IL,61761-3015,United States,Central,309-862-2000,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,,,,,Via Rail Canada,C,Y,60,30,788,100000
+BNS,"Burns, Oregon",N,Curbside Bus Stop only (no shelter),Burns,OR,97720,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,4154,2745
+BOI,"Boise, Idaho",N,Station Building (with waiting room),Boise,ID,83702-5619,United States,Pacific Northwest,208-343-3861,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Bus tickets only.,P,Y,30,30,2696,163000
+BON,"Boston (North Station), Massachusetts",Y,Station Building (with waiting room),Boston,MA,02114,United States,Northeast,800-USA-RAIL,Y,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,BOX,,,MBTA,E,Y,30,30,10,641071
+BOS,"Boston (South Station), Massachusetts",Y,Station Building (with waiting room),Boston,MA,02110,United States,Northeast,617-345-7551,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,BOX,,,,E,Y,60,30,14,641071
+BRA,"Brattleboro, Vermont",N,Station Building (with waiting room),Brattleboro,VT,05301-3389,United States,Northeast,802-254-2301,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,235,8289
+BRH,"Brookhaven, Mississippi",N,Station Building (with waiting room),Brookhaven,MS,39601-3839,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,484,9983
+BRK,"Brunswick, Maine",N,Curbside Bus Stop only (no shelter),Brunswick,ME,04011,United States,Northeast,207-729-9869,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,N,,,,Concord Trailways,E,Y,30,30,131,14816
+BRL,"Burlington, Iowa",N,Station Building (with waiting room),Burlington,IA,52601,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,538,27208
+BRO,"Browning, Montana",N,Station Building (with waiting room),Browning,MT,59417,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,GPX,,,,M,Y,30,30,4484,1065
+BRP,"Bridgeport, Connecticut",N,Station Building (with waiting room),Bridgeport,CT,06604-4315,United States,Northeast,203-336-2891,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,Metro North Railroad,E,Y,30,30,37,142546
+BTL,"Battle Creek, Michigan",Y,Station Building (with waiting room),Battle Creek,MI,49017-3521,United States,Central,269-963-3351,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,,Via Rail Canada,E,Y,30,30,822,92144
+BTR,"Baton Rouge, Louisiana",N,Curbside Bus Stop only (no shelter),Baton Rouge,LA,70802,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,,C,Y,30,30,53,229553
+BUF,"Buffalo-Depew, New York",Y,Station Building (with waiting room),Depew,NY,14043,United States,Northeast,716-683-8440,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,BUX,,,Via Rail Canada,E,Y,60,30,674,313000
+BUL,"Buellton, California",N,Curbside Bus Stop only (no shelter),Buellton,CA,93427,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,358,4278
+BUR,"Burbank (Airport), California",N,Platform with Shelter,Burbank,CA,91505,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,,,,,P,Y,30,30,689,95000
+BVD,"Beaver Dam, Wisconsin",N,Curbside Bus Stop only (no shelter),Beaver Dam,WI,53916,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,891,
+BWC,"Brunswick (Bowdoin College), Maine",N,Curbside Bus Stop only (no shelter),Brunswick,ME,04011,United States,Northeast,800-639-3317,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,N,,,,,E,Y,30,30,72,14816
+BWE,"Bowie State, Maryland",,Pseudo Station,Bowie,MD,20715,,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+BWI,"BWI Thurgood Marshall Airport Station, Maryland",Y,Station Building (with waiting room),BWI Airport,MD,21240-0642,United States,Mid-Atlantic,410-672-6169,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,N,,,,MARC/Via Rail Canada,E,Y,30,30,63,50000
+BWK,"Brunswick, Maryland",,Pseudo Station,Brunswick,MD,21716-1147,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+BWW,"Brewster, Washington",N,Curbside Bus Stop only (no shelter),Brewster,WA,98812,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,815,2600
+BYD,"Boyds, Maryland",,Pseudo Station,Boyds,MD,20841,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+BYF,"Boyne Falls, Michigan",N,Curbside Bus Stop only (no shelter),Boyne Falls,MI,49713,United States,Central,800-292-3831,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,710,340
+BYN,"Bryan, Ohio",N,Station Building (with waiting room),Bryan,OH,43506,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,769,8348
+CAL,California Rail Pass,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+CAM,"Camden, South Carolina",N,Station Building (with waiting room),Camden,SC,29020,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,174,6700
+CAY,"Conway, New Hampshire",N,Curbside Bus Stop only (no shelter),Conway,NH,03818,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,460,1692
+CBN,Canadian Border New York,,Pseudo Station,,,,,,,,,,,,,,,N,,,,,,,,,,E,Y,,,299,
+CBO,"Cannon Beach, Oregon",N,Curbside Bus Stop only (no shelter),Cannon Beach,OR,97110,United States,Pacific Northwest,503-436-0515,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,At Family Market,P,Y,30,30,30,1500
+CBR,"Cleburne, Texas",N,Station Building (with waiting room),Cleburne,TX,76031-4236,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,764,29689
+CBS,"Columbus, Wisconsin",Y,Station Building (with waiting room),Columbus,WI,53925,United States,Central,920-623-3831,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,C,Y,60,30,845,5093
+CBY,"Coos Bay, Oregon",N,Curbside Bus Stop only (no shelter),Coos Bay,OR,97420-2335,United States,Pacific Northwest,541-269-7183,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,buses only,P,Y,30,30,23,16000
+CBZ,"Cabazon, California",N,Curbside Bus Stop only (no shelter),Cabazon,CA,92230,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,P,Y,15,15,1953,
+CDE,"Cambridge, Maryland",N,Curbside Bus Stop only (no shelter),Cambridge,MD,21613,United States,Mid-Atlantic,410-912-6000,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,28,
+CDL,"Carbondale, Illinois",Y,Station Building (with waiting room),Carbondale,IL,62901,United States,Central,618-457-3388,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,N,,,,Via Rail Canada,C,Y,60,30,416,20681
+CDN,"Camden/Rockport, Maine",N,Curbside Bus Stop only (no shelter),Rockport,ME,04856,United States,Northeast,207-236-4597,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,E,Y,30,30,123,3934
+CEN,"Centralia, Illinois",N,Station Building (with waiting room),Centralia,IL,62801-3526,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,490,15000
+CER,"Coeur d'Alene, Idaho",N,Curbside Bus Stop only (no shelter),Coeur d'Alene,ID,83814,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,2208,
+CFX,"Colfax, Washington",N,Curbside Bus Stop only (no shelter),Colfax,WA,99111,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Bus tickets only.,P,Y,30,30,1989,
+CHG,Charge,,Pseudo Station,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHI,"Chicago (Union Station), Illinois",Y,Station Building (with waiting room),Chicago,IL,60606-5702,United States,Central,312-655-2101,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,,,,,Metra/Via Rail Canad,C,Y,90,30,587,2833321
+CHM,"Champaign-Urbana, Illinois",Y,Station Building (with waiting room),Champaign,IL,61820-4046,United States,Central,217-352-5905,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,N,,,,Via Rail Canada,C,Y,60,30,737,73685
+CHP,"Chippewa Falls, Wisconsin",N,Curbside Bus Stop only (no shelter),Chippewa Falls,WI,54729,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,903,
+CHS,"Charleston, South Carolina",Y,Station Building (with waiting room),North Charleston,SC,29405,United States,Southern,843-744-8264,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,30,20,549000
+CHW,"Charleston, West Virginia",Y,Station Building (with waiting room),Charleston,WV,25314,United States,Mid-Atlantic,304-342-6766,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,45,30,606,51846
+CIC,"Chico, California",N,Platform only (no shelter),Chico,CA,95928-4602,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,188,35000
+CIN,"Cincinnati, Ohio",Y,Station Building (with waiting room),Cincinnati,OH,45203-1130,United States,Central,513-651-3337,Y,N,N,Y,N,N,N,N,Y,Y,N,N,N,Y,CIX,,,Via Rail Canada,E,Y,60,30,503,551891
+CLA,"Claremont, New Hampshire",N,Platform only (no shelter),Claremont,NH,03743,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,466,13264
+CLB,"Columbia, South Carolina",Y,Station Building (with waiting room),Columbia,SC,29201,United States,Southern,803-252-8246,Y,Y,N,Y,Y,Y,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,30,193,113542
+CLC,"Cadillac, Michigan",N,Curbside Bus Stop only (no shelter),Cadillac,MI,49601-8624,United States,Central,800-231-2222,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,1318,10300
+CLE,"Cleveland, Ohio",Y,Station Building (with waiting room),Cleveland,OH,44114,United States,Central,216-696-5115,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,CLX,,,Via Rail Canada,E,Y,60,30,594,573822
+CLF,"Clifton Forge, Virginia",N,Station Building (with waiting room),Clifton Forge,VA,24422,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,1058,4040
+CLK,"Crater Lake, Oregon",N,Curbside Bus Stop only (no shelter),Crater Lake,OR,97604,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,7115,
+CLM,"Claremont, California",N,Platform with Shelter,Claremont,CA,91711,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,N,Y,Y,N,N,,,,,P,Y,30,30,1156,110000
+CLN,"Clinton, Connecticut",,Pseudo Station,Clinton,CT,06413,United States,Shore Line East,203-777-7433,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+CLP,"Culpeper, Virginia",N,Platform only (no shelter),Culpeper,VA,22701,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,415,13011
+CLT,"Charlotte, North Carolina",Y,Station Building (with waiting room),Charlotte,NC,28206,United States,Southern,704-378-3762,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,60,60,707,630478
+CLV,"Cloverdale, California",N,Curbside Bus Stop only (no shelter),Cloverdale,CA,95425,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,301,3989
+CML,"Camarillo, California",N,Platform only (no shelter),Camarillo,CA,93010,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,P,Y,30,30,150,45000
+CMO,"Chemult, Oregon",N,Platform with Shelter,Chemult,OR,97731,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,N,,,,,P,Y,30,30,4764,437
+CNH,"Concord, New Hampshire",N,Station Building (with waiting room),Concord,NH,03301-5064,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,Concord Trailways,E,Y,30,30,239,42970
+CNL,"Colonel Allensworth Park, California",N,Platform only (no shelter),Earlimart,CA,93219,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,,,,,,,P,Y,30,30,213,
+CNV,"Castleton, Vermont",N,Station Building (with waiting room),Castleton,VT,05735-7716,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,,,,,,,,,E,Y,30,30,425,
+COC,"Corcoran, California",N,Station Building (with waiting room),Corcoran,CA,93212-2445,United States,Pacific,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,209,14458
+COI,"Connersville, Indiana",N,Platform with Shelter,Connersville,IN,47331,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,833,15550
+COS,"Colorado Springs, Colorado",N,Station Building (with waiting room),Colorado Springs,CO,80903,United States,Central,719-635-1505,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,Greyhound,M,Y,30,30,6002,290500
+COT,"Coatesville, Pennsylvania",N,Platform with Shelter,Coatesville,PA,19320,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,368,11631
+COV,"Connellsville, Pennsylvania",N,Platform with Shelter,Connellsville,PA,15425,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,891,11000
+COX,"Colfax, California",N,Platform only (no shelter),Colfax,CA,95713,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,2426,971
+CPK,"College Park, Maryland",,Pseudo Station,College Park,MD,20740,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+CPN,"Carpinteria, California",N,Platform with Shelter,Carpinteria,CA,93013,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,20,14600
+CRC,"Crescent City, California",N,Curbside Bus Stop only (no shelter),Crescent City,CA,95531,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,,P,Y,15,15,1,
+CRF,"Crawfordsville, Indiana",N,Platform with Shelter,Crawfordsville,IN,47933,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,CRX,,,,E,Y,30,30,743,15243
+CRH,"Cherry Hill, New Jersey",N,Station Building (with waiting room),Cherry Hill,NJ,08002,United States,Northeast,973-275-5555,N,N,N,N,N,N,N,N,Y,N,Y,N,N,,,,,,E,Y,30,30,23,13238
+CRM,"Carmel, California",N,Curbside Bus Stop only (no shelter),Carmel,CA,93923-8609,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,34,3928
+CRN,"Creston, Iowa",N,Platform with Shelter,Creston,IA,50891,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,1313,8234
+CRT,"Croton Harmon, New York",N,Station Building (with waiting room),Croton-on-Hudson,NY,10520-3054,United States,Northeast,914-271-1594,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,Metro-North Railroad,E,Y,30,30,6,7000
+CRV,"Carlinville, Illinois",N,Station Building (with waiting room),Carlinville,IL,62626-1625,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,None,C,Y,30,30,622,5714
+CRY,Carry-on Charge,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+CSN,"Clemson, South Carolina",N,Station Building (with waiting room),Clemson,SC,29631,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,721,12444
+CTL,"Centralia, Washington",Y,Station Building (with waiting room),Centralia,WA,98531,United States,Pacific Northwest,360-736-8653,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,CTL,,Via Rail Canada,P,Y,45,30,189,10054
+CUA,"Cumberland (Allegany College), Maryland",N,Curbside Bus Stop only (no shelter),Cumberland,MD,21502,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,CUX,,,,E,Y,15,15,659,30000
+CUM,"Cumberland (Amtrak Station), Maryland",N,Station Building (with waiting room),Cumberland,MD,21502,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,,CUX,,,,E,Y,30,30,643,30000
+CUT,"Cut Bank, Montana",N,Station Building (with waiting room),Cut Bank,MT,59427-2934,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,M,Y,30,30,3754,3105
+CVD,"Camp Verde, Arizona",N,Curbside Bus Stop only (no shelter),Camp Verde,AZ,86322-5201,United States,Southwest,928-567-4388,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,M,N,30,30,3187,10610
+CVI,"Corvallis, Oregon",N,Station Building (with waiting room),Corvallis,OR,97330,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,232,49807
+CVJ,"Cave Junction, Oregon",N,Curbside Bus Stop only (no shelter),Cave Junction,OR,97523,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,N,Y,,,,,,P,Y,15,15,1335,
+CVL,"Colville, Washington",N,Curbside Bus Stop only (no shelter),Colville,WA,99114,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,1569,
+CVS,"Charlottesville, Virginia",Y,Station Building (with waiting room),Charlottesville,VA,22903,United States,Mid-Atlantic,434-296-4559,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,Y,N,,,,Via Rail Canada,E,Y,60,45,488,47049
+CWH,"Cornwells Heights, Pennsylvania",N,Platform with Shelter,Cornwells Heights,PA,19020,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,SEPTA,E,Y,30,30,35,3406
+CWL,"Chewelah, Washington",N,Curbside Bus Stop only (no shelter),Chewelah,WA,99109,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,1668,
+CWT,"Chatsworth, California",N,Platform with Shelter,Chatsworth,CA,91311,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,,,,Metrolink,P,Y,30,30,968,37225
+CYN,"Cary, North Carolina",Y,Station Building (with waiting room),Cary,NC,27513,United States,Southern,919-462-6434,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,,E,Y,60,45,495,70000
+DAL,"Dallas, Texas",Y,Station Building (with waiting room),Dallas,TX,75202-4840,United States,Southwest,214-653-1101,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,Y,,,,,Via Rail Canada,C,Y,60,30,425,2000000
+DAM,"Damariscotta, Maine",N,Curbside Bus Stop only (no shelter),Damariscotta,ME,04543-4649,United States,Northeast,207-563-3128,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Concord Trailways,E,Y,30,30,16,1972
+DAN,"Danville, Virginia",N,Station Building (with waiting room),Danville,VA,24541-1503,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,428,45586
+DAV,"Davis, California",Y,Station Building (with waiting room),Davis,CA,95616-4624,United States,Pacific,530-758-4220,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,N,N,,,,Via Rail Canada,P,Y,60,30,49,64401
+DBP,"Dublin-Pleasanton, California",N,Station Building (with waiting room),Pleasanton,CA,94588-3900,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,334,41840
+DDE,"Dade City, Florida",N,Curbside Bus Stop only (no shelter),Dade City,FL,33525,United States,Southern,352-567-9982,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,E,Y,30,30,76,6987
+DDG,"Dodge City, Kansas",N,Station Building (with waiting room),Dodge City,KS,67801,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,2490,27340
+DEB,"Denver (Bus Station), Colorado",N,Station Building (with waiting room),Denver,CO,80202,United States,Central,303-293-6555,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,DEX,,,"Greyhound,Powder Rvr",M,Y,30,30,5219,2000000
+DEM,"Deming, New Mexico",N,Platform only (no shelter),Deming,NM,88030,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,Y,30,30,4338,15296
+DEN,"Denver, Colorado",Y,Station Building (with waiting room),Denver,CO,80202,United States,Central,303-825-2583,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,Y,Y,DEX,,,Via Rail Canada,M,Y,60,30,5181,467610
+DER,"Dearborn, Michigan",Y,Station Building (with waiting room),Dearborn,MI,48126,United States,Central,313-336-5407,Y,Y,N,N,N,N,N,Y,Y,Y,N,Y,N,N,,,,VIA Rail Canada,E,Y,45,30,595,92382
+DET,"Detroit, Michigan",Y,Station Building (with waiting room),Detroit,MI,48202,United States,Central,313-873-3442,Y,Y,N,N,N,N,N,Y,Y,Y,N,Y,Y,N,,,,Via Rail Canada,E,Y,45,30,632,871121
+DFB,"Deerfield Beach, Florida",Y,Station Building (with waiting room),Deerfield Beach,FL,33442,United States,Southern,954-421-1155,Y,N,N,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,,,,Via Rail Canada,E,Y,60,30,8,64583
+DHM,"Durham, New Hampshire",N,Station Building (with waiting room),Durham,NH,03824-1909,United States,Northeast,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,79,9050
+DIL,"Dillon, South Carolina",N,Station Building (with waiting room),Dillon,SC,29536,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,115,32300
+DKS,"Dickerson, Maryland",,Pseudo Station,Dickerson,MD,20842,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+DLB,"Delray Beach, Florida",N,Platform with Shelter,Delray Beach,FL,33444,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,,E,Y,30,30,18,60200
+DLD,"Deland, Florida",Y,Station Building (with waiting room),Deland,FL,32720-2808,United States,Southern,386-734-2322,Y,Y,N,Y,N,N,N,Y,Y,Y,N,N,Y,N,,,,Via Rail Canada,E,Y,60,30,26,31828
+DLK,"Detroit Lakes, Minnesota",N,Station Building (with waiting room),Detroit Lakes,MN,56501,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,1363,8141
+DNC,"Durham, North Carolina",Y,Station Building (with waiting room),Durham,NC,27701-2887,United States,Southern,919-956-7932,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,45,30,400,200000
+DNK,"Denmark, South Carolina",N,Station Building (with waiting room),Denmark,SC,29042,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,No,E,Y,30,30,248,7000
+DOA,"Dowagiac, Michigan",N,Station Building (with waiting room),Dowagiac,MI,49047-1448,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,767,6589
+DOV,"Dover, New Hampshire",N,Station Building (with waiting room),Dover,NH,03820-3327,United States,Northeast,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,E,Y,30,30,70,28422
+DOW,"Downingtown, Pennsylvania",N,Platform with Shelter,Downingtown,PA,19335,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,260,7885
+DPK,"Deer Park, Washington",N,Curbside Bus Stop only (no shelter),Deer Park,WA,99006,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,2104,
+DQN,"Du Quoin, Illinois",N,Station Building (with waiting room),Du Quoin,IL,62832-1602,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,464,6427
+DRD,"Durand, Michigan",N,Station Building (with waiting room),Durand,MI,48429-1713,United States,Central,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,E,Y,30,30,795,3678
+DRS,"Dorsey, Maryland",,Pseudo Station,Elkridge,MD,21075,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+DRT,"Del Rio, Texas",N,Station Building (with waiting room),Del Rio,TX,78840,United States,Southwest,830-775-8906,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,962,37500
+DUF,"Duffields, West Virginia",,Pseudo Station,Duffields,WV,25414,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+DUK,"Dunkirk, New York",N,Curbside Bus Stop only (no shelter),Dunkirk,NY,14048,United States,Northeast,716-366-2611,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,E,Y,30,30,600,12300
+DUL,"Duluth (Greyhound Station), Minnesota",N,Station Building (with waiting room),Duluth,MN,55806,United States,Central,218-722-5591,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,Greyhound,C,Y,30,30,634,85000
+DUN,"Dunsmuir, California",N,Station Building (with waiting room),Dunsmuir,CA,96025-2024,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,2307,1836
+DUU,"Duluth (University of Minnesota), Minnesota",N,Curbside Bus Stop only (no shelter),Duluth,MN,55812,United States,Central,218-726-6717,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,Jefferson Bus Ticket,C,Y,30,30,1108,85000
+DVI,"Danville, Illinois",N,Curbside Bus Stop only (no shelter),Danville,IL,61834-9378,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,30,30,659,32760
+DVL,"Devils Lake, North Dakota",N,Station Building (with waiting room),Devils Lake,ND,58301,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,1467,6708
+DVP,"Davenport, Iowa",N,Station Building (with waiting room),Davenport,IA,52801,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,30,30,565,99514
+DVR,"Dover, Delaware",N,Station Building (with waiting room),Dover,DE,19904-4106,United States,Mid-Atlantic,302-736-5183,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound,E,Y,30,30,30,34735
+DWT,"Dwight, Illinois",N,Station Building (with waiting room),Dwight,IL,60420-1321,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,634,4500
+DYA,"Daytona Beach, Florida",N,Curbside Bus Stop only (no shelter),Daytona Beach,FL,32118-4273,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,E,Y,30,30,18,64183
+DYE,"Dyer, Indiana",N,Platform with Shelter,Dyer,IN,46311,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,624,10923
+EDG,"Edgewood, Maryland",,Pseudo Station,Edgewood,MD,21040,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+EDM,"Edmonds, Washington",Y,Station Building (with waiting room),Edmonds,WA,98020-4132,United States,Pacific Northwest,425-778-3213,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,P,Y,60,30,9,32000
+EFG,"Effingham, Illinois",N,Station Building (with waiting room),Effingham,IL,62401-3772,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,594,34000
+EGH,"Egg Harbor City, New Jersey",N,Platform with Shelter,Egg Harbor City,NJ,08215,United States,Northeast,973-275-5555,N,N,N,N,N,N,N,N,Y,N,Y,N,N,,,,,,E,Y,30,30,59,4454
+EKA,"Eureka, California",N,Curbside Bus Stop only (no shelter),Eureka,CA,95501,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,,P,Y,30,30,20,25700
+EKG,"Elk Grove, California",N,Curbside Bus Stop only (no shelter),Elk Grove,CA,95758,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,Y,,,,,P,Y,30,30,17,59854
+EKH,"Elkhart, Indiana",N,Station Building (with waiting room),Elkhart,IN,46515,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,752,43627
+ELK,"Elko, Nevada",N,Platform with Shelter,Elko,NV,89801,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,5063,21500
+ELP,"El Paso, Texas",Y,Station Building (with waiting room),El Paso,TX,79901,United States,Southwest,915-545-2247,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,M,Y,60,30,3724,609415
+ELS,"Elsie, Oregon",N,Curbside Bus Stop only (no shelter),Elsie,OR,97138-6162,United States,Pacific Northwest,503-755-1818,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,"Driver, bus only",P,Y,15,15,450,1200
+ELT,"Elizabethtown, Pennsylvania",N,Station Building (with waiting room),Elizabethtown,PA,17022,United States,Mid-Atlantic,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,481,11897
+ELY,"Elyria, Ohio",N,Station Building (with waiting room),Elyria,OH,44035,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,728,56746
+EMI,"Escanaba, Michigan",N,Curbside Bus Stop only (no shelter),Escanaba,MI,49829,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,E,Y,30,30,630,12575
+EMY,"Emeryville, California",Y,Station Building (with waiting room),Emeryville,CA,94608-2037,United States,Pacific,510-450-1081,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,N,Y,,,,Via Rail Canada,P,Y,60,45,14,8751
+EPH,"Ephrata (Train), Washington",N,Platform with Shelter,Ephrata,WA,98823-2421,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,,N,N,Y,,,,,P,Y,30,30,1275,5359
+EPL,"El Portal, California",N,Curbside Bus Stop only (no shelter),El Portal,CA,95318-0169,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,2096,635
+EPR,"Ephrata (Bus), Washington",N,Curbside Bus Stop only (no shelter),Ephrata,WA,98823-2151,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,,,Y,,EPX,,,NW Trailways only,P,Y,30,30,1250,
+ERI,"Erie, Pennsylvania",N,Station Building (with waiting room),Erie,PA,16501,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,688,110000
+ESG,"El Segundo, California",N,Curbside Bus Stop only (no shelter),El Segundo,CA,90245,United States,Southwest,800-872-7245,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,P,Y,15,15,90,
+ESM,"Essex, Montana",N,Platform only (no shelter),Essex,MT,59916-9710,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,M,Y,30,30,3908,10
+ESN,"Easton, Maryland",N,Curbside Bus Stop only (no shelter),Easton,MD,21601,United States,Mid-Atlantic,410-822-5444,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,70,
+ESX,"Essex Junction, Vermont",N,Station Building (with waiting room),Essex Junction,VT,05452,United States,Northeast,802-879-7298,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,355,19264
+EUC,"Eau Claire, Wisconsin",N,Curbside Bus Stop only (no shelter),Eau Claire,WI,54701,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,30,30,786,56161
+EUG,"Eugene, Oregon",Y,Station Building (with waiting room),Eugene,OR,97401-2613,United States,Pacific Northwest,541-687-1383,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,Y,N,,,,Via Rail Canada,P,Y,45,30,429,146356
+EUO,"Eugene (University of Oregon), Oregon",N,Curbside Bus Stop only (no shelter),Eugene,OR,97402,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,15,15,464,146356
+EVR,"Everett, Washington",Y,Station Building (with waiting room),Everett,WA,98201,United States,Pacific Northwest,425-258-2458,Y,Y,N,Y,N,N,N,Y,Y,Y,N,N,Y,N,,,,No,P,Y,60,30,60,82500
+EWR,"Newark Liberty International Airport, New Jersey",Y,Station Building (with waiting room),Newark,NJ,07114-3401,United States,Northeast,000-000-0000,Y,Y,N,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,Yes,E,Y,30,30,9,281402
+EXC,Exchange,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+EXP,Express,,Pseudo Station,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EXR,"Exeter, New Hampshire",N,Platform with Shelter,Exeter,NH,03833,United States,Northeast,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,52,10500
+EXT,"Exton, Pennsylvania",N,Platform with Shelter,Exton,PA,19341,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,385,4267
+FAR,"Fargo, North Dakota",Y,Station Building (with waiting room),Fargo,ND,58102,United States,Central,701-232-2197,Y,N,N,Y,Y,N,N,N,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,902,93531
+FAY,"Fayetteville, North Carolina",Y,Station Building (with waiting room),Fayetteville,NC,28301-5563,United States,Southern,910-483-2658,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,60,60,102,77800
+FBG,"Fredericksburg, Virginia",N,Platform with Shelter,Fredericksburg,VA,22401-6067,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,47,190000
+FDL,"Fond du Lac, Wisconsin",N,Curbside Bus Stop only (no shelter),Fond du Lac,WI,54935-4705,United States,Central,920-921-4215,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,Greyhound/Lamers,C,Y,30,30,791,42341
+FDN,"Fredonia, New York",N,Curbside Bus Stop only (no shelter),Fredonia,NY,14063,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,E,Y,30,30,681,11127
+FED,"Fort Edward-Glens Falls, New York",N,Platform only (no shelter),Fort Edward,NY,12828,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,Y,,,,NO,E,Y,30,30,142,3700
+FGG,"Flagstaff (Greyhound), Arizona",N,Station Building (with waiting room),Flagstaff,AZ,86001-5843,United States,Southwest,928-774-4573,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,FLX,,,,M,N,30,30,6895,58213
+FHD,"Fort Hood, Texas",N,Curbside Bus Stop only (no shelter),Fort Hood,TX,76544,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,C,Y,30,30,949,33700
+FIL,"Fillmore, California",N,Curbside Bus Stop only (no shelter),Fillmore,CA,93015-1835,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,437,9602
+FIN,Group Final,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+FLG,"Flagstaff, Arizona",Y,Station Building (with waiting room),Flagstaff,AZ,86001-5530,United States,Southwest,928-774-8679,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,,FLX,,,Via Rail Canada,M,N,60,30,6904,50700
+FLN,"Flint, Michigan",Y,Station Building (with waiting room),Flint,MI,48503-2878,United States,Central,810-234-2659,Y,N,N,N,N,N,N,Y,Y,Y,N,N,Y,Y,,,,Via Rail Canada,E,Y,30,30,759,430700
+FLO,"Florence, South Carolina",Y,Station Building (with waiting room),Florence,SC,29506,United States,Southern,843-665-7650,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,30,142,65000
+FMD,"Fort Madison, Iowa",Y,Station Building (with waiting room),Fort Madison,IA,52627,United States,Central,319-372-3142,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,VIA Rail Canada,C,Y,60,30,523,10916
+FMG,"Fort Morgan, Colorado",N,Station Building (with waiting room),Fort Morgan,CO,80701,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,Y,30,30,4331,11000
+FMT,"Fremont (Capitol Trains), California",N,Station Building (with waiting room),Fremont,CA,94536,United States,Pacific,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,FRX,,,,P,Y,30,30,58,201961
+FNO,"Fresno, California",Y,Station Building (with waiting room),Fresno,CA,93721-1325,United States,Pacific,559-486-7651,Y,Y,N,Y,N,N,N,Y,Y,Y,N,Y,N,N,,,,Via Rail Canada,P,Y,45,30,295,466714
+FOX,"Foxwoods Casino, Connecticut",N,Curbside Bus Stop only (no shelter),Ledyard,CT,06339-1128,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,E,Y,30,30,190,
+FRA,"Framingham, Massachusetts",N,Platform with Shelter,Framingham,MA,01702-6948,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,E,Y,30,30,165,35000
+FRC,"Frederick (Transit Center), Maryland",N,Station Building (with waiting room),Frederick,MD,21704,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,Y,,Y,,FDX,,,MARC,E,Y,15,15,279,60000
+FRO,"Florence, Oregon",N,Curbside Bus Stop only (no shelter),Florence,OR,97439,United States,Pacific Northwest,541-902-9076,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,16,8122
+FRR,"Frederick (Airport), Maryland",N,Curbside Bus Stop only (no shelter),Frederick,MD,21705,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,FDX,,,,E,Y,15,15,299,60000
+FRT,"Fremont (San Joaquin Buses), California",N,Curbside Bus Stop only (no shelter),Fremont,CA,94538,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,FRX,,,,P,Y,30,30,264,162800
+FSB,"Frostburg, Maryland",N,Curbside Bus Stop only (no shelter),Frostburg,MD,21532,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,1939,
+FSC,"Frisco, Colorado",N,Curbside Bus Stop only (no shelter),Frisco,CO,80443,United States,Central,970-668-8917,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,M,Y,30,30,9070,2500
+FTA,"Fortuna, California",N,Curbside Bus Stop only (no shelter),Fortuna,CA,95540,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,71,63300
+FTC,"Ticonderoga, New York",N,Platform with Shelter,Ticonderoga,NY,12883,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,117,2100
+FTL,"Fort Lauderdale, Florida",Y,Station Building (with waiting room),Fort Lauderdale,FL,33312,United States,Southern,954-587-6692,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,,,,Via Rail Canada,E,Y,60,30,4,152397
+FTM,"Fort Myers, Florida",N,Curbside Bus Stop only (no shelter),Fort Myers,FL,33906-4419,United States,Southern,000-000-0000,N,N,N,Y,N,N,N,N,Y,N,N,Y,N,N,,,,,E,Y,30,30,18,60531
+FTN,"Fulton, Kentucky",N,Station Building (with waiting room),Fulton,KY,42041,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,420,2775
+FTW,"Fort Worth, Texas",Y,Station Building (with waiting room),Fort Worth,TX,76102,United States,Southwest,817-332-2931,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,C,Y,60,30,601,703073
+FUL,"Fullerton, California",Y,Station Building (with waiting room),Fullerton,CA,92832,United States,Southwest,714-992-0530,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,N,Y,,,,Via Rail Canada,P,Y,60,30,162,114000
+GAC,"Santa Clara (Great America), California",N,Platform only (no shelter),Santa Clara,CA,95054,United States,Pacific,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,,,,,P,Y,30,30,13,108518
+GAI,"Gaithersburg, Maryland",,Pseudo Station,Gaithersburg,MD,20877,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+GAS,"Gastonia, North Carolina",N,Station Building (with waiting room),Gastonia,NC,28054,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,819,69904
+GBB,"Galesburg, Illinois",Y,Station Building (with waiting room),Galesburg,IL,61401,United States,Central,309-342-8993,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,,Via Rail Canada,C,Y,60,30,780,31738
+GBC,"Garibaldi Highlands, British Columbia",N,Curbside Bus Stop only (no shelter),Garibaldi Highlands,BC,V0N 1T0,Canada,Pacific,800-898-3914,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound Canada,P,Y,30,30,49,5966
+GBT,"Greenbelt, Maryland",,Pseudo Station,Greenbelt,MD,20770,,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+GBV,"Garberville, California",N,Curbside Bus Stop only (no shelter),Garberville,CA,95542,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,556,1200
+GBY,"Green Bay, Wisconsin",N,Station Building (with waiting room),Green Bay,WI,54301,United States,Central,920-432-4883,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,C,Y,30,30,590,100353
+GCA,Group Car Attendant,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+GCB,"Grand Canyon National Park (Buses), Arizona",N,Curbside Bus Stop only (no shelter),Grand Canyon National Park,AZ,86023,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,GCX,,,,M,N,30,30,6848,1460
+GCK,"Garden City, Kansas",Y,Station Building (with waiting room),Garden City,KS,67846,United States,Southwest,620-275-9533,Y,N,N,N,N,N,N,N,Y,Y,,,,,,,,,C,Y,30,15,2835,26665
+GCN,"Grand Canyon National Park (Railway), Arizona",N,Station Building (with waiting room),Grand Canyon National Park,AZ,86023,United States,Southwest,800-843-8724,N,N,N,N,N,N,N,N,Y,N,Y,N,N,,GCX,,,,M,N,30,30,6882,1460
+GDL,"Glendale, California",N,Platform with Shelter,Glendale,CA,91204,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,,,,,P,Y,30,30,434,155000
+GEM,"Germantown, Maryland",,Pseudo Station,Germantown,MD,20875,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+GFK,"Grand Forks, North Dakota",Y,Station Building (with waiting room),Grand Forks,ND,58201,United States,Central,701-775-0484,Y,N,N,Y,Y,N,N,N,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,836,51313
+GFV,"Greenfield Village, Michigan",N,Platform with Shelter,Dearborn,MI,48216,United States,Central,800-872-1477,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,No,E,Y,30,30,598,
+GGW,"Glasgow, Montana",N,Station Building (with waiting room),Glasgow,MT,59230-2396,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,M,Y,30,30,2092,3523
+GHL,"Gold Hill, Oregon",N,Curbside Bus Stop only (no shelter),Gold Hill,OR,97525,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,N,Y,,,,,,P,Y,15,15,1087,
+GHT,"Gearhart, Oregon",N,Curbside Bus Stop only (no shelter),Gearhart,OR,97301,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,From Bus Driver,P,Y,30,30,42,995
+GIF,Gift Certificate,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+GJT,"Grand Junction, Colorado",Y,Station Building (with waiting room),Grand Junction,CO,81501-2207,United States,Pacific,970-241-2733,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,M,Y,60,30,4578,45000
+GLE,"Gainesville, Texas",N,Station Building (with waiting room),Gainesville,TX,76240,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,735,16452
+GLF,Golf Bag,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+GLM,"Gilman, Illinois",N,Platform with Shelter,Gilman,IL,60983,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,C,Y,30,30,654,1913
+GLN,"Glenview, Illinois",Y,Station Building (with waiting room),Glenview,IL,60025,United States,Central,847-724-2530,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,Y,,,,Via Rail Canada,C,Y,60,30,631,46321
+GLP,"Gallup, New Mexico",N,Station Building (with waiting room),Gallup,NM,87301,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,N/A,M,Y,30,30,6509,19000
+GLS,"Galveston (Texas Eagle Bus), Texas",N,Curbside Bus Stop only (no shelter),Galveston,TX,77550,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,GLX,,,,C,Y,30,30,6,64519
+GLV,"Galveston (Sunset Limited Bus), Texas",N,Station Building (with waiting room),Galveston,TX,77550-3819,United States,Southwest,409-765-7731,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,GLX,,,,C,Y,30,30,8,
+GLY,"Gilroy, California",N,Curbside Bus Stop only (no shelter),Gilroy,CA,95020,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,Y,Y,N,,,,,,P,Y,30,30,198,21641
+GMS,"Grimsby, Ontario",N,Platform with Shelter,Grimsby,ON,L3M 3H6,Canada,VIA Rail Canada Inc.,888-842-7245,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,XGY,VIAnet:  GRIM,,E,Y,30,30,282,157983
+GNB,"Greensburg, Pennsylvania",N,Platform with Shelter,Greensburg,PA,15601,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,1097,15870
+GNF,"Gainesville, Florida",N,Curbside Bus Stop only (no shelter),Gainesville,FL,32601,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,E,Y,30,30,175,95447
+GNS,"Gainesville, Georgia",N,Station Building (with waiting room),Gainesville,GA,30501,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,1206,33340
+GPB,Group Breakfast,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+GPD,Group Dinner,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+GPF,Group FedEx TBM,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+GPI,Kids Trains and Meal,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+GPK,"East Glacier Park, Montana",Y,Station Building (with waiting room),East Glacier Park,MT,59434,United States,Pacific Northwest,406-226-4452,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,VIA Rail Canada,M,Y,60,30,4806,396
+GPL,Group Lunch,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+GPM,"Garrett Park, Maryland",,Pseudo Station,Garrett Park,MD,20852,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+GPS,Group Special Meal,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+GRA,"Granby, Colorado",N,Platform only (no shelter),Granby,CO,80446,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,Y,30,30,7963,963
+GRI,"Green River, Utah",N,Platform only (no shelter),Green River,UT,84525,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,M,Y,30,30,4089,1500
+GRO,"Greensboro, North Carolina",Y,Station Building (with waiting room),Greensboro,NC,27401-2704,United States,Southern,336-272-6755,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,E,Y,60,45,317,236865
+GRR,"Grand Rapids, Michigan",N,Station Building (with waiting room),Grand Rapids,MI,49503-4061,United States,Central,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,611,193083
+GRU,Group,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+GRV,"Greenville, South Carolina",Y,Station Building (with waiting room),Greenville,SC,29601,United States,Southern,864-255-4221,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,60,30,962,57428
+GSC,"Glenwood Springs, Colorado",Y,Station Building (with waiting room),Glenwood Springs,CO,81601,United States,Central,970-945-9563,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,M,Y,60,30,5755,7700
+GSN,"Goshen Junction, California",N,Curbside Bus Stop only (no shelter),Goshen,CA,93227,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,Y,,,,,P,Y,30,30,284,24400
+GTA,"Goleta, California",N,Platform with Shelter,Goleta,CA,93117,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,42,66000
+GTP,"Grants Pass, Oregon",N,Station Building (with waiting room),Grants Pass,OR,97526,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,,P,Y,15,15,975,20000
+GTV,"Grantsville, Maryland",N,Curbside Bus Stop only (no shelter),Grantsville,MD,21536,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,2693,
+GUA,"Guadalupe-Santa Maria, California",N,Station Building (with waiting room),Guadalupe,CA,93434,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,N,Y,N,N,SGX,,,,P,Y,30,30,85,5575
+GUI,"Guilford, Connecticut",,Pseudo Station,Guilford,CT,06437,United States,Shore Line East,203-777-7433,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+GUT,"Guthrie, Oklahoma",N,Platform only (no shelter),Guthrie,OK,73044-3150,United States,Central,000-000-0000,N,N,,N,N,N,N,N,Y,Y,,,,,,,,,C,Y,15,15,946,
+GVB,"Grover Beach, California",N,Platform with Shelter,Grover Beach,CA,93433-1968,United States,Southwest,800-USA-RAIL,N,N,Y,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,16,12500
+GVI,"Grangeville, Idaho",N,Curbside Bus Stop only (no shelter),Grangeville,ID,83530,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Bus tickets only,P,Y,30,30,3381,3200
+GWD,"Greenwood, Mississippi",N,Station Building (with waiting room),Greenwood,MS,38930,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,133,17590
+HAE,"Halethorpe, Maryland",,Pseudo Station,Baltimore,MD,21227,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+HAG,"Hagerstown, Maryland",N,Curbside Bus Stop only (no shelter),Hagerstown,MD,21740-1414,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,15,15,510,
+HAM,"Hamlet, North Carolina",N,Station Building (with waiting room),Hamlet,NC,28345,United States,Southern,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,310,6900
+HAR,"Harrisburg, Pennsylvania",Y,Station Building (with waiting room),Harrisburg,PA,17101,United States,Mid-Atlantic,717-232-3331,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,,,,,Via Rail Canada,E,Y,60,30,320,47164
+HAS,"Hastings, Nebraska",Y,Station Building (with waiting room),Hastings,NE,68901,United States,Central,402-462-5703,Y,N,N,Y,Y,N,N,N,Y,Y,N,N,N,N,,,,Via Rail Canada,C,Y,60,30,1927,24000
+HAV,"Havre, Montana",Y,Station Building (with waiting room),Havre,MT,59501-3599,United States,Pacific Northwest,406-265-5381,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,M,Y,60,30,2487,9621
+HAY,"Hayward, California",N,Platform with Shelter,Hayward,CA,94541,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,Y,,,,,P,Y,30,30,74,140606
+HAZ,"Hazlehurst, Mississippi",N,Platform with Shelter,Hazlehurst,MS,39083,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,466,4374
+HBG,"Hattiesburg, Mississippi",N,Station Building (with waiting room),Hattiesburg,MS,39401,United States,Southern,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,Y,,,,,C,Y,30,30,161,48012
+HDS,"Hudson, Wisconsin",N,Curbside Bus Stop only (no shelter),Hudson,WI,54016,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,860,
+HEA,"Healdsburg, California",N,Curbside Bus Stop only (no shelter),Healdsburg,CA,95448-4000,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,100,7217
+HEM,"Hermann, Missouri",N,Platform with Shelter,Hermann,MO,65041,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,514,2751
+HER,"Helper, Utah",N,Station Building (with waiting room),Helper,UT,84526,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,M,Y,30,30,5825,3200
+HET,"Hemet (West Florida Ave), California",N,Curbside Bus Stop only (no shelter),Hemet,CA,92545-3622,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,HTX,,,,P,Y,30,30,1530,70136
+HFD,"Hartford, Connecticut",Y,Station Building (with waiting room),Hartford,CT,06103,United States,Northeast,860-727-1776,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,E,Y,45,30,64,121800
+HFY,"Harpers Ferry, West Virginia",N,Platform with Shelter,Harpers Ferry,WV,25425,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,293,2000
+HGD,"Huntingdon, Pennsylvania",N,Station Building (with waiting room),Huntingdon,PA,16652,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,620,7000
+HGH,"Houghton, Michigan",N,Curbside Bus Stop only (no shelter),Houghton,MI,49931,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,15,15,694,7014
+HHL,"Haverhill, Massachusetts",N,Platform with Shelter,Haverhill,MA,01832-5418,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,45,60176
+HIN,"Hinton, West Virginia",N,Station Building (with waiting room),Hinton,WV,25951,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,1384,2651
+HKL,"Hinckley, Minnesota",N,Curbside Bus Stop only (no shelter),Hinckley,MN,55037,United States,Central,320-384-6174,N,N,N,N,N,N,Y,N,Y,N,N,Y,N,,,,,No,C,Y,30,30,1030,1432
+HKM,"Hancock, Michigan",N,Curbside Bus Stop only (no shelter),Hancock,MI,49930,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,695,
+HLD,"Holdrege, Nebraska",N,Station Building (with waiting room),Holdrege,NE,68949,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,2328,6000
+HMD,"Hammond, Louisiana",Y,Station Building (with waiting room),Hammond,LA,70401,United States,Southern,985-345-6264,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,44,19134
+HMI,"Hammond-Whiting, Indiana",N,Station Building (with waiting room),Hammond,IN,46320-1044,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,C,Y,30,30,588,100000
+HMT,"Hemet (Devonshire Ave), California",N,Curbside Bus Stop only (no shelter),Hemet,CA,92543-2905,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,HTX,,,,P,Y,30,30,1596,70136
+HMW,"Homewood, Illinois",Y,Station Building (with waiting room),Homewood,IL,60430,United States,Central,708-957-0850,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,656,18700
+HNF,"Hanford, California",Y,Station Building (with waiting room),Hanford,CA,93230-4554,United States,Pacific,559-582-5236,Y,Y,N,Y,N,N,N,Y,Y,Y,N,Y,N,Y,,,,Via Rail Canada,P,Y,45,30,248,44100
+HNK,"Hancock, Maryland",N,Curbside Bus Stop only (no shelter),Hancock,MD,21750,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,437,
+HOL,"Hollywood, Florida",Y,Station Building (with waiting room),Hollywood,FL,33021,United States,Southern,954-921-4517,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,,,,Via Rail Canada,E,Y,60,30,5,145800
+HOM,"Holland, Michigan",N,Station Building (with waiting room),Holland,MI,49423,United States,Central,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,609,34245
+HOO,"Hood River, Oregon",N,Curbside Bus Stop only (no shelter),Hood River,OR,97031,United States,Pacific Northwest,541-386-1212,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,121,5000
+HOS,"Houston, Texas",Y,Station Building (with waiting room),Houston,TX,77002,United States,Southwest,713-224-1577,Y,N,N,Y,N,N,N,N,Y,Y,N,Y,N,N,,,,Via Rail Canada,C,Y,60,30,43,2144491
+HPT,"High Point, North Carolina",N,Station Building (with waiting room),High Point,NC,27260,United States,Southern,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,Y,N,,,,,,E,Y,45,45,921,97796
+HTN,"Hammonton, New Jersey",N,Platform with Shelter,Hammonton,NJ,08037,United States,Northeast,973-275-5555,N,N,N,N,N,N,N,N,Y,N,Y,N,N,,,,,,E,Y,30,30,98,13500
+HUD,"Hudson, New York",Y,Station Building (with waiting room),Hudson,NY,12534,United States,Northeast,518-828-3379,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,45,30,7,35000
+HUN,"Huntington, West Virginia",Y,Station Building (with waiting room),Huntington,WV,25701,United States,Mid-Atlantic,304-523-7721,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,45,30,570,49007
+HUT,"Hutchinson, Kansas",N,Station Building (with waiting room),Hutchinson,KS,67501,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,1530,42080
+HWC,"Howard City, Michigan",N,Curbside Bus Stop only (no shelter),Howard City,MI,49329,United States,Central,800-231-2222,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,E,Y,30,30,878,1351
+IDO,"Indio, California",N,Curbside Bus Stop only (no shelter),Indio,CA,92201-3917,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,3,36000
+IDP,"Independence, Missouri",N,Station Building (with waiting room),Independence,MO,64050-3564,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,951,120000
+IND,"Indianapolis, Indiana",Y,Station Building (with waiting room),Indianapolis,IN,46225-1198,United States,Central,317-263-0550,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,Y,,,,Via Rail Canada,E,Y,60,30,706,733271
+IRV,"Irvine, California",Y,Station Building (with waiting room),Irvine,CA,92618,United States,Southwest,949-753-9713,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,N,N,N,,,,Via Rail Canada,P,Y,30,30,265,50000
+ISE,"Isleton, California",N,Curbside Bus Stop only (no shelter),Isleton,CA,95641,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,6,
+JAN,"Jackson, Mississippi",Y,Station Building (with waiting room),Jackson,MS,39201,United States,Southern,601-355-6350,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,C,Y,60,30,288,176614
+JAX,"Jacksonville, Florida",Y,Station Building (with waiting room),Jacksonville,FL,32209-2123,United States,Southern,904-766-5110,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,N,N,,,,Via Rail Canada,E,Y,60,30,19,794555
+JEF,"Jefferson City, Missouri",N,Station Building (with waiting room),Jefferson City,MO,65101,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,558,39274
+JES,"Jessup, Maryland",,Pseudo Station,Jessup,MD,20794,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+JMN,"Jamestown, New York",N,Curbside Bus Stop only (no shelter),Jamestown,NY,14701,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,Coach USA Erie,E,Y,30,30,1367,
+JNL,"June Lake, California",N,Curbside Bus Stop only (no shelter),June Lake,CA,95529,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,15,15,7547,
+JOL,"Joliet, Illinois",Y,Station Building (with waiting room),Joliet,IL,60431,United States,Central,815-727-9279,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,,,,,VIA Rail Canada,C,Y,60,30,540,142702
+JSP,"Jesup, Georgia",N,Platform only (no shelter),Jesup,GA,31545-1300,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,No,E,Y,30,30,98,12000
+JST,"Johnstown, Pennsylvania",Y,Station Building (with waiting room),Johnstown,PA,15901,United States,Mid-Atlantic,814-535-3313,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,30,30,1174,42000
+JVL,"Janesville, Wisconsin",N,Station Building (with waiting room),Janesville,WI,53545-0373,United States,Central,800-747-0994,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,C,Y,30,30,890,
+JXN,"Jackson, Michigan",Y,Station Building (with waiting room),Jackson,MI,49201,United States,Central,517-787-6385,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,,,,VIA Rail Canada,E,Y,45,30,931,39569
+KAL,"Kalamazoo, Michigan",Y,Station Building (with waiting room),Kalamazoo,MI,49007-3669,United States,Central,269-344-1841,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,Y,Y,,,,Via Rail Canada,E,Y,45,30,778,218241
+KAN,"Kannapolis, North Carolina",N,Station Building (with waiting room),Kannapolis,NC,28081,United States,Southern,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,825,40223
+KCY,"Kansas City, Missouri",Y,Station Building (with waiting room),Kansas City,MO,64108-2410,United States,Central,816-421-3622,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,C,Y,60,30,804,451572
+KEE,"Kewanee, Illinois",N,Platform with Shelter,Kewanee,IL,61443,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,851,16000
+KEL,"Kelso-Longview, Washington",N,Station Building (with waiting room),Kelso,WA,98626,United States,Pacific Northwest,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,23,22000
+KFS,"Klamath Falls, Oregon",Y,Station Building (with waiting room),Klamath Falls,OR,97601-3286,United States,Pacific Northwest,541-884-2822,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,N,,,,Via Rail Canada,P,Y,60,30,4104,19462
+KGC,"King City, California",N,Curbside Bus Stop only (no shelter),King City,CA,93930-3446,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,Y,,,,,P,Y,30,30,304,5495
+KGS,"Kingsley, Michigan",N,Curbside Bus Stop only (no shelter),Kingsley,MI,49649,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,30,30,971,
+KIL,"Killeen, Texas",N,Station Building (with waiting room),Killeen,TX,76541-5231,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,30,30,846,83716
+KIN,"Kingston, Rhode Island",Y,Station Building (with waiting room),West Kingston,RI,02892-1508,United States,Northeast,401-783-2913,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,45,30,117,50000
+KIS,"Kissimmee, Florida",Y,Station Building (with waiting room),Kissimmee,FL,34741-5723,United States,Southern,407-933-1170,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,60,30,64,60900
+KKI,"Kankakee, Illinois",N,Station Building (with waiting room),Kankakee,IL,60901-3834,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,629,101300
+KLK,"Kalkaska, Michigan",N,Curbside Bus Stop only (no shelter),Kalkaska,MI,49646-8473,United States,Central,800-292-3831,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,1041,13497
+KNG,"Kingman, Arizona",N,Station Building (with waiting room),Kingman,AZ,86401,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,,KGX,,,,M,N,30,30,3339,10500
+KNT,"Kent Island, Maryland",N,Curbside Bus Stop only (no shelter),Grasonville,MD,21638-1030,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,E,Y,15,15,4,
+KSM,"Kensington, Maryland",,Pseudo Station,Kensington,MD,20895,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+KTC,"Kettleman City, California",N,Curbside Bus Stop only (no shelter),Kettleman City,CA,93239,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,355,
+KTF,"Kettle Falls, Washington",N,Curbside Bus Stop only (no shelter),Kettle Falls,WA,99141,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,1636,
+KTR,"Kingstree, South Carolina",N,Station Building (with waiting room),Kingstree,SC,29556-3425,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,48,4200
+KWD,"Kirkwood, Missouri",N,Station Building (with waiting room),Kirkwood,MO,63122-4202,United States,Central,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,637,33000
+LAB,"Latrobe, Pennsylvania",N,Platform with Shelter,Latrobe,PA,15650,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,1005,11800
+LAE,"La Grande, Oregon",N,Station Building (with waiting room),La Grande,OR,97850,United States,Pacific Northwest,541-963-5165,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound only,P,Y,30,30,2766,10000
+LAF,"Lafayette, Indiana",N,Station Building (with waiting room),Lafayette,IN,47901-1238,United States,Central,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,Y,,,,,E,Y,30,30,541,43764
+LAG,"La Grange Road, Illinois",N,Platform with Shelter,La Grange,IL,60525,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,C,Y,30,30,640,100000
+LAJ,"La Junta, Colorado",Y,Station Building (with waiting room),La Junta,CO,81050,United States,Southwest,719-384-2275,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,M,Y,60,30,4068,10000
+LAK,"Lakeland, Florida",Y,Station Building (with waiting room),Lakeland,FL,33801-5036,United States,Southern,863-683-6368,Y,N,N,Y,N,N,N,Y,Y,Y,N,Y,N,N,LKX,,,Via Rail Canada,E,Y,60,30,183,90207
+LAN,"L'Anse, Michigan",N,Curbside Bus Stop only (no shelter),L'Anse,MI,49946,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,613,
+LAP,"La Plata, Missouri",N,Station Building (with waiting room),La Plata,MO,63549,United States,Central,660-956-0460,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,917,1445
+LAS,"Las Vegas International Airport, Nevada",N,Curbside Bus Stop only (no shelter),Las Vegas,NV,89111-5000,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,,,Y,,LVX,,,,P,Y,30,30,2087,
+LAU,"Laurel, Mississippi",N,Station Building (with waiting room),Laurel,MS,39440,United States,Southern,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,245,18450
+LAX,"Los Angeles, California",Y,Station Building (with waiting room),Los Angeles,CA,90012-2902,United States,Southwest,213-683-6729,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,,,,Metrolink/MTA/VIA,P,Y,90,30,280,3900000
+LBC,"Long Beach, California",N,Curbside Bus Stop only (no shelter),Long Beach,CA,90802-1323,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,LBX,,,,P,Y,30,30,39,417400
+LBQ,"Long Beach (Queen Mary), California",N,Curbside Bus Stop only (no shelter),Long Beach,CA,90802-6331,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,LBX,,,,P,Y,30,30,16,
+LCA,"La Crescenta, California",N,Curbside Bus Stop only (no shelter),La Crescenta,CA,91214,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,1580,
+LCH,"Lake Charles, Louisiana",N,Station Building (with waiting room),Lake Charles,LA,70601-2152,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,13,70224
+LCN,"Lincoln, Illinois",N,Platform with Shelter,Lincoln,IL,62656,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,585,14822
+LCS,"Lancaster, California",N,Platform with Shelter,Lancaster,CA,93534-3218,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,N,Y,Y,N,Y,,,,,P,Y,30,30,2357,130000
+LCV,"Lincolnville, Maine",N,Curbside Bus Stop only (no shelter),Lincolnville,ME,04849,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,N,Y,N,Y,,,,,,E,Y,30,30,12,
+LDB,"Lordsburg, New Mexico",N,Platform only (no shelter),Lordsburg,NM,88045,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,Y,30,30,4250,2762
+LDW,"Lindenwold, New Jersey",N,Station Building (with waiting room),Somerdale,NJ,08083,United States,Northeast,973-275-5555,N,N,N,N,N,N,N,N,Y,N,Y,N,N,,,,,,E,Y,30,30,70,
+LEE,"Lee's Summit, Missouri",N,Platform with Shelter,Lee's Summit,MO,64063-2332,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,1039,28000
+LEG,"Leggett, California",N,Curbside Bus Stop only (no shelter),Leggett,CA,95585-8911,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,909,
+LEV,"Leavenworth (Buses), Washington",N,Curbside Bus Stop only (no shelter),Leavenworth,WA,98826,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,Y,N,Y,N,LWX,,,"Yes, at UPS Store",P,Y,30,30,1194,1692
+LEW,"Lewistown, Pennsylvania",N,Station Building (with waiting room),Lewistown,PA,17044,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,489,11000
+LEX,"Lexington, North Carolina",N,Platform only (no shelter),Lexington,NC,27292,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,751,
+LFT,"Lafayette, Louisiana",N,Station Building (with waiting room),Lafayette,LA,70501-8032,United States,Southern,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,38,114214
+LGO,"Lego Land, Carlsbad, California",N,Curbside Bus Stop only (no shelter),Carlsbad,CA,92008-4610,United States,Pacific,760-720-9400,N,N,N,N,N,N,N,N,N,,,,,,,,,,P,Y,30,30,122,
+LGX,Legoland Admission Ticket,,Pseudo Station,Carlsbad,CA,92008,United States,,,,,,,,,,,,,,,,,,,,,,,,,,
+LIB,"Libby, Montana",N,Station Building (with waiting room),Libby,MT,59923-1933,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,M,Y,30,30,2075,2626
+LIV,"Livermore (Transit Center), California",N,Curbside Bus Stop only (no shelter),Livermore,CA,94550-3011,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,494,55800
+LKL,"Lakeland, Florida",Y,Station Building (with waiting room),Lakeland,FL,33801-5036,United States,Southern,863-683-6368,Y,N,N,N,N,N,N,Y,Y,Y,N,Y,N,,LKX,,,VIA Rail Canada,E,Y,30,30,183,90207
+LLK,"Loon Lake, Washington",N,Curbside Bus Stop only (no shelter),Loon Lake,WA,99148,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,2410,
+LMC,"Lemoore, California",N,Curbside Bus Stop only (no shelter),Lemoore,CA,93245-3663,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,Y,N,Y,,,,,,P,Y,30,30,228,
+LMN,"Lemoore (Naval Air Station), California",N,Curbside Bus Stop only (no shelter),Lemoore,CA,93245,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,228,
+LMQ,"La Marque, Texas",N,Curbside Bus Stop only (no shelter),La Marque,TX,77568,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,30,30,15,25000
+LMR,"Lamar, Colorado",N,Platform only (no shelter),Lamar,CO,81052,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,Y,30,30,3618,8869
+LMY,"Lamy, New Mexico",Y,Station Building (with waiting room),Lamy,NM,87540,United States,Southwest,505-466-4511,Y,N,N,Y,N,N,N,Y,Y,Y,,,Y,,,,,Via Rail Canada,M,Y,60,30,6478,109
+LNC,"Lancaster, Pennsylvania",Y,Station Building (with waiting room),Lancaster,PA,17602,United States,Mid-Atlantic,717-291-5080,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,30,30,350,56348
+LNK,"Lincoln, Nebraska",Y,Station Building (with waiting room),Lincoln,NE,68508,United States,Central,402-476-1295,Y,N,N,Y,Y,N,N,N,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,1152,200000
+LNL,"Laguna Niguel/Mission Viejo, California",N,Platform with Shelter,Laguna Niguel,CA,92677,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,Y,N,N,,,,,,P,Y,15,15,243,
+LNN,"Lincoln, New Hampshire",N,Curbside Bus Stop only (no shelter),Lincoln,NH,03251,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,,,,,,,E,Y,30,30,767,
+LNS,"East Lansing, Michigan",Y,Station Building (with waiting room),East Lansing,MI,48823-5223,United States,Central,517-332-5051,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,Y,Y,,,,Via Rail Canada,E,Y,30,30,850,47542
+LNV,"Laughlin, Nevada",N,Curbside Bus Stop only (no shelter),Laughlin,NV,89029-1519,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,599,
+LOD,"Lodi, California",N,Station Building (with waiting room),Lodi,CA,95240,United States,Pacific,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,50,
+LOM,"Lompoc, California",N,Curbside Bus Stop only (no shelter),Lompoc,CA,93436,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,Y,Y,N,N,LPX,,,,P,Y,30,30,104,41900
+LOR,"Lorton (Auto Train), Virginia",Y,Station Building (with waiting room),Lorton,VA,22079,United States,Southern,703-690-3615,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,120,120,85,
+LPD,"Lake Placid, New York",N,Curbside Bus Stop only (no shelter),Lake Placid,NY,12946,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,E,Y,30,30,1904,
+LPE,"Lapeer, Michigan",N,Station Building (with waiting room),Lapeer,MI,48446-2515,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,No,E,Y,30,30,823,6272
+LPN,"La Pine, Oregon",N,Curbside Bus Stop only (no shelter),La Pine,OR,97739,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,4234,
+LPS,"Lompoc-Surf, California",N,Platform with Shelter,Surf,CA,93437,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,LPX,,,,P,Y,30,30,45,
+LQT,"La Quinta, California",N,Curbside Bus Stop only (no shelter),La Quinta,CA,92253,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,P,Y,15,15,74,44704
+LRC,"Lawrence, Kansas",N,Station Building (with waiting room),Lawrence,KS,66044,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,828,87643
+LRK,"Little Rock, Arkansas",Y,Station Building (with waiting room),Little Rock,AR,72201,United States,Central,501-372-6841,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,268,183133
+LRM,"Laurel, Maryland",,Pseudo Station,Laurel,MD,20707,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+LRT,"Laurel Racetrack, Maryland",,Pseudo Station,Laurel,MD,20725,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+LSE,"La Crosse, Wisconsin",Y,Station Building (with waiting room),La Crosse,WI,54601,United States,Central,608-782-6462,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,C,Y,60,30,655,50902
+LSV,"Las Vegas, New Mexico",N,Station Building (with waiting room),Las Vegas,NM,87701,United States,Southwest,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,Y,30,30,6406,13000
+LTL,"Littleton, New Hampshire",N,Curbside Bus Stop only (no shelter),Littleton,NH,03561-4118,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,N,,,,,E,Y,30,30,929,
+LTM,"Lathrop/Manteca, California",N,Platform with Shelter,Manteca,CA,95330,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,Y,Y,,,,,,,P,Y,15,15,27,
+LTR,"Littlerock, California",N,Curbside Bus Stop only (no shelter),Littlerock,CA,93543-3034,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,2896,
+LTV,"Laytonville, California",N,Curbside Bus Stop only (no shelter),Laytonville,CA,95454,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,1658,1096
+LVL,"Louisville, Kentucky",N,Station Building (with waiting room),Louisville,KY,40203-1917,United States,Central,502-561-2805,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,Greyhound,E,Y,30,30,457,283900
+LVN,"Lee Vining, California",N,Curbside Bus Stop only (no shelter),Lee Vining,CA,95541,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,15,15,6792,
+LVS,"Las Vegas (Downtown), Nevada",N,Station Building (with waiting room),Las Vegas,NV,89101-6357,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,,Y,Y,,LVX,,,Greyhound,P,Y,30,30,2025,
+LVW,"Longview, Texas",Y,Station Building (with waiting room),Longview,TX,75602,United States,Southwest,903-758-0902,Y,N,N,Y,Y,N,N,Y,Y,Y,N,Y,,,,,,Via Rail Canada,C,Y,60,30,332,76524
+LWA,"Leavenworth (Trains), Washington",N,Platform with Shelter,Leavenworth,WA,98826,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,,,,,LWX,,,,P,Y,30,30,1243,
+LWN,"Lewiston, Idaho",N,Curbside Bus Stop only (no shelter),Lewiston,ID,83501-1617,United States,Pacific Northwest,208-746-8108,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Northwestern Trlways,P,Y,30,30,753,28100
+LYH,"Lynchburg, Virginia",Y,Station Building (with waiting room),Lynchburg,VA,24501-1303,United States,Southern,434-847-8247,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,E,Y,45,30,706,67720
+MAC,"Macomb, Illinois",N,Station Building (with waiting room),Macomb,IL,61455-7321,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,C,Y,30,30,703,18400
+MAK,"Mackinaw City, Michigan",N,Curbside Bus Stop only (no shelter),Mackinaw City,MI,49701,United States,Central,800-231-2222,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,,E,Y,30,30,590,875
+MAL,"Malta, Montana",N,Station Building (with waiting room),Malta,MT,59538-1732,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,M,Y,30,30,2254,2120
+MAR,"Marceline, Missouri",N,Platform only (no shelter),Marceline,MO,64658,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,,,,,,,,,C,Y,30,30,862,
+MAT,"Mattoon, Illinois",N,Station Building (with waiting room),Mattoon,IL,61938-3920,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,732,19200
+MAY,"Maysville,  Kentucky",N,Station Building (with waiting room),Maysville,KY,41056,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,505,9179
+MCA,"McCall, Idaho",N,Curbside Bus Stop only (no shelter),McCall,ID,83638-4408,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Bus tickets only.,P,Y,30,30,5048,2188
+MCB,"McComb, Mississippi",N,Station Building (with waiting room),McComb,MS,39648,United States,Southern,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,405,13607
+MCD,"Merced, California",Y,Station Building (with waiting room),Merced,CA,95340,United States,Pacific,209-722-6862,Y,Y,N,Y,N,N,N,Y,Y,Y,N,N,Y,N,,,,Via Rail Canada,P,Y,60,30,172,76313
+MCG,"McGregor, Texas",N,Station Building (with waiting room),McGregor,TX,76657,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,711,4845
+MCI,"Michigan City, Indiana",N,Platform only (no shelter),Michigan City,IN,46360-3246,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,599,70000
+MCK,"McCook, Nebraska",N,Station Building (with waiting room),McCook,NE,69001-3779,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,2512,8400
+MCY,"Monocacy (Frederick), Maryland",,Pseudo Station,Frederick,MD,21704,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+MDN,"Meriden, Connecticut",Y,Station Building (with waiting room),Meriden,CT,06450,United States,Northeast,203-235-3402,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Shoreline East / Via,E,Y,30,30,143,57000
+MDP,"Midpines, California",N,Curbside Bus Stop only (no shelter),Midpines,CA,95345,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,2577,
+MDR,"Madera, California",N,Platform only (no shelter),Madera,CA,93638,United States,Pacific,559-661-0935,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,289,54959
+MDS,"Madison, Connecticut",,Pseudo Station,Madison,CT,06443,,Shore Line East,203-777-7433,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+MDT,"Mendota, Illinois",N,Station Building (with waiting room),Mendota,IL,61342,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,Y,Y,,,,,,C,Y,30,30,742,7072
+MEE,"Monroe (Eastbound), Washington",N,Curbside Bus Stop only (no shelter),Monroe,WA,98272,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,MEX,,,,P,Y,15,15,79,4278
+MEI,"Meridian, Mississippi",Y,Station Building (with waiting room),Meridian,MS,39301,United States,Southern,601-693-6471,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,C,Y,60,30,336,38200
+MEM,"Memphis, Tennessee",Y,Station Building (with waiting room),Memphis,TN,38103,United States,Central,901-526-0052,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,45,258,670900
+MET,"Metropark (Iselin), New Jersey",Y,Station Building (with waiting room),Iselin,NJ,08830-2707,United States,Northeast,973-275-5555,Y,Y,N,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,NJ Transit,E,Y,30,30,59,22548
+MEW,"Monroe (Westbound), Washington",N,Curbside Bus Stop only (no shelter),Monroe,WA,98272,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,MEX,,,,P,Y,30,30,81,4278
+MFR,"Medford, Oregon",N,Station Building (with waiting room),Medford,OR,97501,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,Y,,,,"RVTD, Greyhound",P,Y,30,30,1379,17000
+MGP,"Mangonia Park, Florida",N,Platform with Shelter,West Palm Beach,FL,33407,United States,Southern,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,Y,,,,,,,,E,Y,30,60,17,
+MHC,"Morgan Hill, California",N,Platform with Shelter,Morgan Hill,CA,95037-3617,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,,Y,,Y,,,,,,P,Y,15,15,353,
+MHL,"Marshall, Texas",Y,Station Building (with waiting room),Marshall,TX,75670-5330,United States,Southwest,903-927-2442,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,370,23965
+MHT,"Manchester, New Hampshire",N,Curbside Bus Stop only (no shelter),Manchester,NH,03101-2333,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,Boston Coach,E,Y,30,30,175,
+MIA,"Miami, Florida",Y,Station Building (with waiting room),Miami,FL,33147,United States,Southern,305-835-1223,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,,,,Via Rail Canada,E,Y,60,30,4,404500
+MID,"Middletown, Pennsylvania",N,Platform with Shelter,Middletown,PA,17057,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,303,8858
+MIN,"Mineola, Texas",N,Platform with Shelter,Mineola,TX,75773-2453,United States,Southwest,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,411,5091
+MJY,"Mount Joy, Pennsylvania",N,Platform with Shelter,Mount Joy,PA,17552,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,366,7056
+MKA,"Milwaukee (General Mitchell Intl Airport), Wisconsin",N,Station Building (with waiting room),Milwaukee,WI,53221,United States,Central,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,,N,N,,,,,,C,Y,30,30,729,573358
+MKE,"Milwaukee (Intermodal Station), Wisconsin",Y,Station Building (with waiting room),Milwaukee,WI,53203,United States,Central,414-271-0840,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,Y,,,,Via Rail Canda,C,Y,60,30,587,604477
+MKV,"McKinleyville, California",N,Curbside Bus Stop only (no shelter),McKinleyville,CA,95519-9358,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,205,
+MLI,"Moline, Illinois",N,Station Building (with waiting room),Moline,IL,61265-1302,United States,Central,309-764-4257,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Burlington Trailways,C,Y,30,30,571,
+MLK,"Moses Lake, Washington",N,Curbside Bus Stop only (no shelter),Moses Lake,WA,98837,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Bus tickets only.,P,Y,30,30,1196,11235
+MLN,"Mancelona, Michigan",N,Curbside Bus Stop only (no shelter),Mancelona,MI,49659-7804,United States,Central,800-231-2222,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,E,Y,30,30,1122,1370
+MMK,"Mammoth Lakes, California",N,Curbside Bus Stop only (no shelter),Mammoth Lakes,CA,93546,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,,,,,,,P,Y,15,15,8911,
+MNG,"Montgomery, West Virginia",N,Platform with Shelter,Montgomery,WV,25136,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,639,2046
+MNI,"Manning, Oregon",N,Curbside Bus Stop only (no shelter),Manning,OR,97106,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,From Bus Driver,P,Y,30,30,251,
+MNM,"Menomonie, Wisconsin",N,Curbside Bus Stop only (no shelter),Menomonie,WI,54751,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,856,
+MOC,"Moscow, Idaho",N,Curbside Bus Stop only (no shelter),Moscow,ID,83843-2318,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Bus tickets only.,P,Y,30,30,2559,17200
+MOD,"Modesto, California",Y,Station Building (with waiting room),Modesto,CA,95355-8301,United States,Pacific,209-551-2048,Y,Y,N,Y,N,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,P,Y,45,30,117,97284
+MOJ,"Mojave, California",N,Curbside Bus Stop only (no shelter),Mojave,CA,93501-1516,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,Y,,,,,P,Y,30,30,2762,
+MOT,"Minot, North Dakota",Y,Station Building (with waiting room),Minot,ND,58701,United States,Central,701-852-0358,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,1560,35419
+MOV,"Moreno Valley, California",N,Curbside Bus Stop only (no shelter),Riverside,CA,92508-2306,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,1536,
+MPK,"Moorpark, California",N,Platform only (no shelter),Moorpark,CA,93021,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,Y,N,N,N,,,,Metrolink,P,Y,30,30,523,60000
+MPR,"Montpelier, Vermont",N,Platform only (no shelter),Montpelier,VT,05602,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,526,7954
+MQT,"Marquette, Michigan",N,Station Building (with waiting room),Marquette,MI,49855,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,E,Y,30,30,873,
+MRB,"Martinsburg, West Virginia",N,Station Building (with waiting room),Martinsburg,WV,25401,United States,Mid-Atlantic,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,437,14000
+MRC,"Maricopa, Arizona",Y,Station Building (with waiting room),Maricopa,AZ,85139,United States,Southwest,520-568-2210,Y,N,N,Y,Y,N,N,N,Y,Y,N,N,N,N,PHX,,,Via Rail Canada,M,N,60,30,1175,20000
+MRM,"Mariposa (Midtown), California",N,Curbside Bus Stop only (no shelter),Mariposa,CA,95338,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,MPX,,,,P,Y,15,15,1956,
+MRP,"Mariposa (Park and Ride), California",N,Curbside Bus Stop only (no shelter),Mariposa,CA,95338,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,MPX,,,,P,Y,30,30,2014,
+MRV,"Marysville, California",N,Station Building (with waiting room),Marysville,CA,95901-5211,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,62,11400
+MRY,"Monterey (Transit Plaza), California",N,Curbside Bus Stop only (no shelter),Monterey,CA,93940,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,MRX,,,,P,Y,30,30,21,
+MSA,"Martin State Airport, Maryland",,Pseudo Station,Middle River,MD,21220,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+MSC,Miscellaneous,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+MSD,"Madison (Deforest), Wisconsin",N,Curbside Bus Stop only (no shelter),Deforest,WI,53532,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,868,
+MSI,"Mosinee, Wisconsin",N,Curbside Bus Stop only (no shelter),Mosinee,WI,54455,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,1288,
+MSN,"Madison (University of Wisconsin), Wisconsin",N,Curbside Bus Stop only (no shelter),Madison,WI,53706-1419,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,MSX,,,Van Galder,C,Y,30,30,860,
+MSP,"St. Paul-Minneapolis, Minnesota",Y,Station Building (with waiting room),St. Paul,MN,55114-1498,United States,Central,651-644-6012,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,N,Y,N,,,,Via Rail Canada,C,Y,60,30,902,662195
+MSS,"Manassas, Virginia",N,Station Building (with waiting room),Manassas,VA,20110,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,,E,Y,30,30,309,36638
+MTC,"Manitowoc, Wisconsin",N,Curbside Bus Stop only (no shelter),Manitowoc,WI,54220,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,30,30,676,
+MTG,"Metropolitan Grove, Maryland",,Pseudo Station,Gaithersburg,MD,20878,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+MTO,"Manton, Michigan",N,Curbside Bus Stop only (no shelter),Manton,MI,49663,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,30,30,1119,
+MTP,"Mt. Pleasant, Iowa",Y,Station Building (with waiting room),Mt. Pleasant,IA,52641,United States,Central,319-385-8801,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,C,Y,60,30,724,7007
+MTR,"Montreal (Gare Centrale), Quebec",Y,Station Building (with waiting room),Montreal,QC,H3B 4G1,Canada,VIA Rail Canada Inc.,514-989-2626,Y,N,N,N,N,N,Y,N,Y,Y,Y,,,Y,,YMY,VIAnet:  MTRL,VIA Rail Canada,E,Y,60,30,83,2500000
+MTZ,"Martinez, California",Y,Station Building (with waiting room),Martinez,CA,94553-1132,United States,Pacific,925-335-5180,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,N,Y,,,,Via Rail Canada,P,Y,60,30,13,31808
+MUK,"Muirkirk, Maryland",,Pseudo Station,Beltsville,MD,20705,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+MVN,"Malvern, Arkansas",N,Platform with Shelter,Malvern,AR,72104-3922,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,274,9046
+MVW,"Mount Vernon, Washington",N,Station Building (with waiting room),Mount Vernon,WA,98273-4327,United States,Pacific Northwest,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,34,22800
+MWI,"Marinette, Wisconsin",N,Curbside Bus Stop only (no shelter),Marinette,WI,54143,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,C,Y,30,30,616,
+MYA,"Monterey (Aquarium), California",N,Curbside Bus Stop only (no shelter),Monterey,CA,93940,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,MRX,,,,P,Y,30,30,23,
+MYH,"Monterey (Hyatt Regency), California",N,Curbside Bus Stop only (no shelter),Monterey,CA,93940,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,MRX,,,,P,Y,30,30,58,
+MYM,"Monterey (Marriott), California",N,Curbside Bus Stop only (no shelter),Monterey,CA,93940,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,MRX,,,,P,Y,30,30,30,
+MYS,"Mystic, Connecticut",N,Platform with Shelter,Mystic,CT,06355,United States,Northeast,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,8,22000
+MYT,"Monterey (Travelodge), California",N,Curbside Bus Stop only (no shelter),Monterey,CA,93940,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,MRX,,,,P,Y,30,30,38,
+NAM,"Nampa, Idaho",N,Station Building (with waiting room),Nampa,ID,83651,United States,Pacific Northwest,208-468-8910,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound only,M,Y,30,30,2535,28000
+NAP,"Napa (VINE Transit Center), California",N,Curbside Bus Stop only (no shelter),Napa,CA,94559-2528,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,NPX,,,,P,Y,30,30,23,
+NBK,"New Brunswick, New Jersey",Y,Station Building (with waiting room),New Brunswick,NJ,08901,United States,Northeast,973-275-5555,Y,N,N,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,NJ Transit,E,Y,30,30,46,42450
+NBN,"Newbern-Dyersburg, Tennessee",N,Platform with Shelter,Newbern,TN,38059,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,376,21000
+NBT,"Newburyport, Massachusetts",N,Station Building (with waiting room),Newburyport,MA,01950-3580,United States,Northeast,603-430-1100,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,C&J Trailways,E,Y,30,30,80,
+NBU,"New Buffalo, Michigan",N,Platform with Shelter,New Buffalo,MI,49117-1161,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,,,,,,,,,E,Y,30,30,606,
+NCG,"Nacogdoches, Texas",N,Curbside Bus Stop only (no shelter),Nacogdoches,TX,75965-0818,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,30,30,539,52900
+NCM,"Necanicum Junction, Oregon",N,Curbside Bus Stop only (no shelter),Necanicum Junction,OR,97301,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,From bus driver,P,Y,30,30,418,
+NCR,"New Carrollton, Maryland",Y,Station Building (with waiting room),New Carrollton,MD,20784,United States,Mid-Atlantic,202-906-3764,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,Y,,,,MARC Commuter / VIA,E,Y,30,30,99,12651
+NDL,"Needles, California",N,Platform only (no shelter),Needles,CA,92363,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,487,20000
+NEW,"Newton, Kansas",Y,Station Building (with waiting room),Newton,KS,67114,United States,Central,316-283-7533,Y,N,N,N,N,N,N,N,Y,Y,,,,,,,,Via Rail Canada,C,Y,60,30,1446,19132
+NFK,"Norfolk, Virginia",N,Curbside Bus Stop only (no shelter),Norfolk,VA,23510,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,E,Y,30,30,6,500000
+NFL,"Niagara Falls, New York, United States",Y,Station Building (with waiting room),Niagara Falls,NY,14305,United States,Northeast,716-285-4224,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,,,,VIA Rail Canada,E,Y,45,30,600,64500
+NFS,"Niagara Falls, Ontario, Canada",Y,Station Building (with waiting room),Niagara Falls,ON,L2E 2R6,Canada,VIA Rail Canada Inc.,888-842-7245,Y,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,XLV,VIAnet:  NIAG,VIA Rail Canada,E,Y,30,30,574,75000
+NHL,"Santa Clarita-Newhall, California",N,Platform with Shelter,Santa Clarita,CA,91321-0000,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,N,Y,Y,N,Y,,,,,P,Y,30,30,1270,24400
+NHN,"New Hampton, New Hampshire",N,Curbside Bus Stop only (no shelter),New Hampton,NH,03256-4219,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,525,
+NHV,"New Haven, Connecticut",Y,Station Building (with waiting room),New Haven,CT,06519-1754,United States,Northeast,203-773-6176,Y,Y,N,Y,N,N,N,Y,Y,Y,Y,N,N,Y,,,,Shoreline East,E,Y,45,30,22,143860
+NIB,"New Iberia, Louisiana",N,Platform only (no shelter),New Iberia,LA,70560,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,19,32981
+NLC,"New London, Connecticut",Y,Station Building (with waiting room),New London,CT,06320,United States,Northeast,860-446-3929,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,"VIA, Shore Line East",E,Y,30,30,6,105892
+NLS,"Niles, Michigan",Y,Station Building (with waiting room),Niles,MI,49120-1745,United States,Central,269-687-2211,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,,,,VIA Rail Canada,E,Y,30,20,690,12990
+NNI,"Nanaimo, British Columbia",N,Station Building (with waiting room),Nanaimo,BC,V9R 5R4,Canada,Pacific,800-661-8747,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,72,
+NOL,"New Orleans, Louisiana",Y,Station Building (with waiting room),New Orleans,LA,70113,United States,Southern,504-528-1612,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,N,N,Y,,,,,C,Y,60,60,4,343829
+NOR,"Norman, Oklahoma",N,Station Building (with waiting room),Norman,OK,73069-6023,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,C,Y,30,30,1170,106957
+NPN,"Newport News, Virginia",Y,Station Building (with waiting room),Newport News,VA,23601-4535,United States,Mid-Atlantic,757-245-3589,Y,Y,N,N,N,N,N,Y,Y,Y,N,Y,N,,,,,Via Rail Canada,E,Y,60,30,28,170045
+NPO,"Newport, Oregon",N,Station Building (with waiting room),Newport,OR,97365,United States,Pacific Northwest,541-265-2253,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,Greyhound,P,Y,30,30,112,
+NPV,"Naperville, Illinois",Y,Station Building (with waiting room),Naperville,IL,60540,United States,Central,630-357-9114,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,,,,,Metra / Via,C,Y,60,30,714,110100
+NPW,"Napa (Wine Train Station), California",N,Curbside Bus Stop only (no shelter),Napa,CA,94559-1925,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,Y,Y,N,,NPX,,,,P,Y,30,30,18,
+NRK,"Newark, Delaware",N,Platform with Shelter,Newark,DE,19711-5105,United States,Mid-Atlantic,302-429-6556,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,111,70000
+NRO,"New Rochelle, New York",N,Station Building (with waiting room),New Rochelle,NY,10801-6353,United States,Northeast,914-632-3737,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,45,30,75,72852
+NSF,"North Carolina State Fair, North Carolina",N,Platform only (no shelter),North Carolina State Fair,NC,27607-3902,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,15,15,483,
+NSH,"Nashua, New Hampshire",N,Curbside Bus Stop only (no shelter),Nashua,NH,03064,United States,Northeast ,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,198,
+NWK,"Newark (Penn Station), New Jersey",Y,Station Building (with waiting room),Newark,NJ,07102-5405,United States,Northeast,973-596-2335,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,,,,NJ Transit/VIA Rail,E,Y,60,30,18,382417
+NYF,"New York State Fair, New York",N,Platform with Shelter,Syracuse,NY,13209-1551,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,N,30,30,379,
+NYP,"New York (Penn Station), New York",Y,Station Building (with waiting room),New York,NY,10001,United States,Northeast,212-630-6400,Y,Y,N,Y,N,N,Y,Y,Y,Y,Y,N,N,N,,,,No,E,Y,90,30,33,8000000
+OAC,"Oakland (Coliseum/Airport), California",N,Platform with Shelter,Oakland,CA,94621-3316,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,P,Y,30,30,9,
+OCA,"Ocala, Florida",N,Station Building (with waiting room),Ocala,FL,34470-6647,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,,E,Y,15,15,69,
+OCM,"Ocean City, Maryland",N,Station Building (with waiting room),Ocean City,MD,21842,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,7,
+OCO,"Oconto, Wisconsin",N,Curbside Bus Stop only (no shelter),Oconto,WI,54153,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,15,15,595,
+OCP,"Ocean Pines, Maryland",N,Curbside Bus Stop only (no shelter),Berlin,MD,21811-4010,United States,Mid-Atlantic,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,13,
+OGD,"Ogden, Utah",N,Station Building (with waiting room),Ogden,UT,84401,United States,Pacific,801-394-5573,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,M,Y,30,30,4298,
+OGE,"Orange, California",N,Platform with Shelter,Orange,CA,92866,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,Y,N,N,,,,,,P,Y,15,15,180,
+OGW,"Okanagan,  Washington",N,Curbside Bus Stop only (no shelter),Okanogan,WA,98840,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,843,
+OKC,"Oklahoma City, Oklahoma",N,Station Building (with waiting room),Oklahoma City,OK,73102,United States,Southwest,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,1207,551789
+OKE,"Okeechobee, Florida",N,Platform with Shelter,Okeechobee,FL,34972-2130,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,29,6000
+OKJ,"Oakland (Jack London Square), California",Y,Station Building (with waiting room),Oakland,CA,94607,United States,Pacific,510-238-4320,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,P,Y,60,30,13,400000
+OKL,"Oakville, Ontario",Y,Station Building (with waiting room),Oakville,ON,L6J 2W6,Canada,VIA Rail Canada Inc.,888-842-7245,Y,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,XOK,VIAnet:  OAKV,VIA Rail Canada,E,Y,30,30,328,90000
+OLT,"San Diego (Old Town), California",N,Platform only (no shelter),San Diego,CA,92110,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,,P,Y,30,30,15,875500
+OLW,"Olympia-Lacey, Washington",N,Station Building (with waiting room),Lacey,WA,98513-6481,United States,Pacific Northwest,360-923-4602,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,193,41000
+OMA,"Omaha, Nebraska",Y,Station Building (with waiting room),Omaha,NE,68108,United States,Central,402-342-1501,Y,N,N,Y,Y,N,N,N,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,1044,345000
+OMW,"Omak, Washington",N,Curbside Bus Stop only (no shelter),Omak,WA,98841-9580,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,955,
+ONA,"Ontario, California",N,Platform only (no shelter),Ontario,CA,91764,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,991,145000
+ONT,"Ontario, Oregon",N,Station Building (with waiting room),Ontario,OR,97914-2830,United States,Pacific Northwest,541-823-2567,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound,M,Y,30,30,2151,9000
+ORB,"Old Orchard Beach, Maine (Seasonal)",N,Platform only (no shelter),Old Orchard Beach,ME,04064,United States,Northeast,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,,,,,,,,,E,Y,30,30,14,8856
+ORC,"Oregon City, Oregon",N,Platform only (no shelter),Oregon City,OR,97045,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,,,,,,P,Y,30,30,34,30667
+ORL,"Orlando, Florida",Y,Station Building (with waiting room),Orlando,FL,32806-3905,United States,Southern,407-843-7611,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,N,Y,,,,Via Rail Canada,E,Y,60,30,107,220500
+ORO,"Orono-University of Maine, Maine",N,Curbside Bus Stop only (no shelter),Orono,ME,04473,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,113,
+ORV,"Oroville, California",N,Curbside Bus Stop only (no shelter),Oroville,CA,95965,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,244,10200
+OSB,"Old Saybrook, Connecticut",Y,Station Building (with waiting room),Old Saybrook,CT,06475-1516,United States,Northeast,860-388-3741,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,,,,,Shoreline East/VIA,E,Y,45,30,30,36475
+OSC,"Osceola, Iowa",N,Station Building (with waiting room),Osceola,IA,50213,United States,Central,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,1136,4500
+OSD,"Oceanside, California",Y,Station Building (with waiting room),Oceanside,CA,92054,United States,Southwest,760-722-4622,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,Y,,,,VIA Rail Canada,P,Y,60,30,50,90000
+OSH,"Oshkosh (Airport), Wisconsin",N,Curbside Bus Stop only (no shelter),Oshkosh,WI,54902-6871,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,30,30,773,
+OSU,"Oshkosh (University of Wisconsin), Wisconsin",N,Curbside Bus Stop only (no shelter),Oshkosh,WI,54901,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,754,
+OTM,"Ottumwa, Iowa",Y,Station Building (with waiting room),Ottumwa,IA,52501,United States,Central,641-682-3876,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,648,35000
+OTN,"Odenton, Maryland",,Pseudo Station,Odenton,MD,21113,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+OWO,"Owosso, Michigan",N,Station Building (with waiting room),Owosso,MI,48867,United States,Central,989-725-5105,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,Indian Trails,E,Y,30,30,732,
+OXN,"Oxnard, California",Y,Station Building (with waiting room),Oxnard,CA,93030,United States,Southwest,805-487-8377,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,,,,Via Rail Canada,P,Y,60,30,55,126000
+PAK,"Palatka, Florida",N,Platform only (no shelter),Palatka,FL,32177-3615,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,20,
+PAO,"Paoli, Pennsylvania",Y,Station Building (with waiting room),Paoli,PA,19301,United States,Mid-Atlantic,215-349-2018,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,N,,,,SEPTA / VIA,E,Y,45,30,549,7000
+PAR,"Parkesburg, Pennsylvania",N,Platform with Shelter,Parkesburg,PA,19365,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,541,3445
+PAS,"Pasadena, California",N,Curbside Bus Stop only (no shelter),Pasadena,CA,91101-2441,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,835,165000
+PBF,"Poplar Bluff, Missouri",N,Station Building (with waiting room),Poplar Bluff,MO,63901-5855,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,357,17059
+PBT,"Pemberton, British Columbia",N,Station Building (with waiting room),Pemberton,BC,V0N 2L0,Canada,Pacific,604-894-5976,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound Canada,P,Y,30,30,712,
+PCH,"Port Charlotte, Florida",N,Curbside Bus Stop only (no shelter),Port Charlotte,FL,33980-4248,United States,Southern,800-USA-RAIL,N,N,N,Y,N,N,N,N,Y,N,N,Y,N,N,,,,,E,Y,30,30,25,
+PCT,"Princeton, Illinois",N,Station Building (with waiting room),Princeton,IL,61356,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,693,7555
+PCV,"Placerville, California",N,Curbside Bus Stop only (no shelter),Placerville,CA,95667,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,Y,,,,,P,Y,30,30,1912,6739
+PDC,"Palm Desert, California",N,Curbside Bus Stop only (no shelter),Palm Desert,CA,92260,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,P,Y,15,15,207,51878
+PDG,"Portland (Greyhound Station), Oregon",N,Station Building (with waiting room),Portland,OR,97209,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,Y,,PRX,,,Greyhound,P,Y,30,30,34,529121
+PDL,"Prunedale, California",N,Curbside Bus Stop only (no shelter),Prunedale,CA,93907,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,96,
+PDX,"Portland (Amtrak - Union Station), Oregon",Y,Station Building (with waiting room),Portland,OR,97209-3789,United States,Pacific Northwest,503-273-4865,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y,PRX,,,Via Rail Canada,P,Y,60,30,34,529121
+PEN,"Pendleton, Oregon",N,Station Building (with waiting room),Pendleton,OR,97801,United States,Pacific Northwest,541-276-1551,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound only,P,Y,30,30,1080,
+PFS,"Post Falls, Idaho",N,Curbside Bus Stop only (no shelter),Post Falls,ID,88354,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,2165,
+PGH,"Pittsburgh, Pennsylvania",Y,Station Building (with waiting room),Pittsburgh,PA,15222,United States,Mid-Atlantic,412-471-6171,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail,E,Y,60,30,744,1000000
+PHA,"Phoenix (Airport), Arizona",N,Station Building (with waiting room),Phoenix,AZ,85034,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,PHX,,,,M,N,30,30,1120,1500000
+PHG,"Phoenix (Greyhound), Arizona",N,Station Building (with waiting room),Phoenix,AZ,85034,United States,Southwest,602-389-4200,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,PHX,,,,M,N,30,30,1100,1500000
+PHL,"Philadelphia (30th St), Pennsylvania",Y,Station Building (with waiting room),Philadelphia,PA,19104-2898,United States,Mid-Atlantic,215-349-2135,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,,,,VIA / SEPTA/NJT,E,Y,60,30,16,1585577
+PHN,"Philadelphia (North), Pennsylvania",N,Station Building (with waiting room),Philadelphia,PA,19132-2400,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,114,
+PIA,"Peoria, Illinois",N,Station Building (with waiting room),Peoria,IL,61602-1538,United States,Central,309-697-9000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Burlington Trailways,C,Y,30,30,494,
+PIC,"Picayune, Mississippi",N,Station Building (with waiting room),Picayune,MS,39466,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,73,11759
+PIT,"Pittsfield, Massachusetts",N,Platform only (no shelter),Pittsfield,MA,01201-5314,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,1004,51974
+PJC,"Princeton Junction, New Jersey",Y,Station Building (with waiting room),Princeton Junction,NJ,08550-1008,United States,Northeast,973-275-5555,Y,Y,N,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,New Jersey Transit,E,Y,30,30,79,
+PLB,"Plattsburgh, New York",N,Station Building (with waiting room),Plattsburgh,NY,12901,United States,Northeast,518-561-8550,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,117,19298
+PLO,"Plano, Illinois",N,Station Building (with waiting room),Plano,IL,60545,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,649,5600
+PLS,"Pleasanton (ACE Station), California",N,Platform with Shelter,Pleasanton,CA,94566,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,,Y,,,,,,,,P,Y,15,15,333,
+PLU,"Plummer, Idaho",N,Curbside Bus Stop only (no shelter),Plummer,ID,83851-9553,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,2716,
+PMD,"Palmdale, California",N,Curbside Bus Stop only (no shelter),Palmdale,CA,93550-4513,United States,Southwest,800-USA-RAIL,N,N,Y,N,N,N,N,N,Y,N,Y,Y,N,Y,,,,,P,Y,30,30,2633,
+PMM,"Primm, Nevada",N,Curbside Bus Stop only (no shelter),Primm,NV,89019-7002,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,2612,
+PMO,"Plymouth, New Hampshire",N,Curbside Bus Stop only (no shelter),Plymouth,NH,03264-1548,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,507,
+PNT,"Pontiac, Michigan",N,Station Building (with waiting room),Pontiac,MI,48342-2276,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,933,67124
+POG,"Portage, Wisconsin",N,Platform with Shelter,Portage,WI,53901,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,811,9919
+POH,"Port Henry, New York",N,Station Building (with waiting room),Port Henry,NY,12974-1324,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,109,2500
+PON,"Pontiac, Illinois",N,Station Building (with waiting room),Pontiac,IL,61764,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,639,11353
+POR,"Portland, Maine",Y,Station Building (with waiting room),Portland,ME,04102-2630,United States,Northeast,207-828-3939,Y,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,Concord Trailway/VIA,E,Y,45,30,20,16557
+POS,"Pomona (Sunset Ltd), California",N,Platform only (no shelter),Pomona,CA,91768,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,866,154271
+POU,"Poughkeepsie, New York",N,Station Building (with waiting room),Poughkeepsie,NY,12601-2909,United States,Northeast,800-638-7646,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,Metro-North Railroad,E,Y,30,30,55,89000
+PRB,"Paso Robles, California",N,Station Building (with waiting room),Paso Robles,CA,93446-2856,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,Y,Y,Y,,,,,P,Y,30,30,729,20000
+PRC,"Prince, West Virginia (Beckley)",Y,Station Building (with waiting room),Prince,WV,25907,United States,Mid-Atlantic,304-253-6651,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,45,30,1198,29003
+PRI,"Perris, California",N,Curbside Bus Stop only (no shelter),Perris,CA,92571-4702,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,1454,
+PRK,"Port Kent, New York",N,Platform only (no shelter),Port Kent,NY,12975,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,Y,,,,,E,Y,30,30,142,500
+PRM,"Point of Rocks, Maryland",,Pseudo Station,Point of Rocks,MD,21777,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+PRO,"Provo, Utah",N,Platform with Shelter,Provo,UT,84601-4542,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,M,Y,30,30,4523,60000
+PRV,"Perryville, Maryland",,Pseudo Station,Perryville,MD,21903,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+PSC,"Pasco, Washington",Y,Station Building (with waiting room),Pasco,WA,99301-5378,United States,Pacific Northwest,509-545-1554,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,P,Y,60,30,390,49927
+PSK,"Petoskey, Michigan",N,Curbside Bus Stop only (no shelter),Petosky,MI,49770-2327,United States,Central,800-231-2222,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,30,30,634,6200
+PSN,"Palm Springs (Train), California",N,Platform with Shelter,Palm Springs,CA,92262,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,PSX,,,,P,Y,30,30,685,47806
+PSP,"Palm Springs (Buses-Airport), California",N,Curbside Bus Stop only (no shelter),Palm Springs,CA,92262,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,,,PSX,,,,P,Y,30,30,418,100000
+PSS,"Palm Springs (Buses-Downtown), California",N,Curbside Bus Stop only (no shelter),Palm Springs,CA,92262-6414,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,P,Y,15,15,458,
+PST,"Pellston, Michigan",N,Curbside Bus Stop only (no shelter),Pellston,MI,49769,United States,Central,800-231-2222,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,696,580
+PTB,"Petersburg, Virginia",Y,Station Building (with waiting room),Petersburg,VA,23803-1642,United States,Southern,804-526-4077,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,30,103,
+PTC,"Petaluma, California",N,Curbside Bus Stop only (no shelter),Petaluma,CA,94952,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,32,41300
+PTE,"Pateros, Washington",N,Curbside Bus Stop only (no shelter),Pateros,WA,98846,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,800,
+PTH,"Port Huron, Michigan",Y,Station Building (with waiting room),Port Huron,MI,48060,United States,Central,810-985-9607,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,VIA Rail Canada,E,Y,30,30,604,35796
+PTL,"Potlatch, Idaho",N,Curbside Bus Stop only (no shelter),Potlatch,ID,83855,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,2502,
+PTS,"Portsmouth, New Hampshire",N,Station Building (with waiting room),Portsmouth,NH,03801-7126,United States,Northeast,603-430-1100,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,C&J Trailways,E,Y,30,30,62,
+PUB,"Pueblo, Colorado",N,Station Building (with waiting room),Pueblo,CO,81003,United States,Central,719-543-2775,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound,M,Y,30,30,4663,99600
+PUL,"Pullman, Washington",N,Station Building (with waiting room),Pullman,WA,99163-3429,United States,Pacific Northwest,509-334-1412,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Bus tickets only.,P,Y,30,30,2359,23600
+PUR,"Purcell, Oklahoma",N,Station Building (with waiting room),Purcell,OK,73080,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,1037,6129
+PVD,"Providence, Rhode Island",Y,Station Building (with waiting room),Providence,RI,02903,United States,Northeast,401-727-7276,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,N,N,,,,Via Rail Canada,E,Y,60,30,17,175000
+PVL,"Pauls Valley, Oklahoma",N,Station Building (with waiting room),Pauls Valley,OK,73075,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,873,6121
+PXN,"Phoenix (Metro Center Transit Station), Arizona",N,Platform only (no shelter),Phoenix,AZ,85023,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,PHX,,,,M,N,30,30,1230,1500000
+QAN,"Quantico, Virginia",N,Platform with Shelter,Quantico,VA,22134-3444,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,36,600
+QCY,"Quincy, Illinois",N,Station Building (with waiting room),Quincy,IL,62301,United States,Central,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,623,40000
+QUC,"Quincy, Washington",N,Curbside Bus Stop only (no shelter),Quincy,WA,98848-1497,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,1299,3738
+RAT,"Raton, New Mexico",Y,Station Building (with waiting room),Raton,NM,87740-3903,United States,Southwest,800-USA-RAIL,Y,N,N,N,N,N,N,N,Y,Y,N,N,Y,,,,,,M,Y,30,30,6661,8500
+RBC,"Richmond, British Columbia",N,Curbside Bus Stop only (no shelter),Richmond,BC,V6X 2M9,Canada,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,P,Y,30,30,20,148867
+RBF,"Red Bluff, California",N,Curbside Bus Stop only (no shelter),Red Bluff,CA,96080-3802,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,,,,,,,P,Y,30,30,303,94900
+RCK,"Rockford, Illinois",N,Station Building (with waiting room),Rockford,IL,61108-4606,United States,Central,800-747-0994,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,C,Y,30,30,837,
+RDD,"Redding (Amtrak Station), California",N,Station Building (with waiting room),Redding,CA,96001-1712,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,Y,,,,,P,Y,30,30,560,90033
+RDM,"Redmond Airport, Oregon",N,Curbside Bus Stop only (no shelter),Redmond,OR,97756,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,local bus tickets,P,Y,30,30,3063,
+RDR,"Redding (RABA Transit Center), California",N,Platform with Shelter,Redding,CA,96001-1008,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,,Y,,,RDX,,,,P,Y,30,30,559,
+RDS,"Rio Dell-Scotia, California",N,Curbside Bus Stop only (no shelter),Scotia,CA,95565,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,159,2687
+RDW,"Red Wing, Minnesota",N,Station Building (with waiting room),Red Wing,MN,55066,United States,Central,651-385-5934,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,687,15687
+REE,"Reed City, Michigan",N,Curbside Bus Stop only (no shelter),Reed City,MI,49677-1119,United States,Central,800-231-2222,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,1080,2379
+REF,Refund,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+REN,"Rensselaer, Indiana",N,Platform with Shelter,Rensselaer,IN,47978,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,C,Y,30,30,668,5045
+RGH,"Raleigh, North Carolina",Y,Station Building (with waiting room),Raleigh,NC,27601,United States,Southern,919-833-7594,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,60,311,1200000
+RHI,"Rhinecliff, New York",Y,Station Building (with waiting room),Rhinecliff,NY,12574,United States,Northeast,845-876-2729,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,45,30,39,2336
+RIC,"Richmond, California",N,Platform with Shelter,Richmond,CA,94802,United States,Pacific,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,Y,,,,,P,Y,30,30,38,
+RIV,"Riverside, California",N,Platform with Shelter,Riverside,CA,92507-4223,United States,Southwest,800-USA-RAIL,N,N,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,,,,,P,Y,45,45,873,240000
+RKF,"Rockford, Michigan",N,Curbside Bus Stop only (no shelter),Rockford,MI,49341,United States,Central,800-231-2222,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,,E,Y,30,30,871,3750
+RKI,"Rock Island, Illinois",N,Curbside Bus Stop only (no shelter),Rock Island,IL,61201,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,591,
+RKV,"Rockville, Maryland",N,Platform with Shelter,Rockville,MD,20850,United States,Mid-Atlantic,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,425,50000
+RLN,"Rocklin, California",N,Station Building (with waiting room),Rocklin,CA,95677,United States,Pacific,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,254,
+RLP,Destination code for Rail Pass,,Pseudo Station,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RMT,"Rocky Mount, North Carolina",Y,Station Building (with waiting room),Rocky Mount,NC,27804-5820,United States,Southern,252-446-3646,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,N,,,,Via Rail Canada,E,Y,60,30,113,60000
+RNO,"Reno, Nevada",Y,Station Building (with waiting room),Reno,NV,89501-1425,United States,Pacific,775-329-8638,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,N,N,,,,Via Rail Canada,P,Y,60,20,4501,120000
+RNY,"Running Y Ranch, Oregon",N,Curbside Bus Stop only (no shelter),Klamath Falls,OR,97601,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,4220,
+ROC,"Rochester, New York",Y,Station Building (with waiting room),Rochester,NY,14605,United States,Northeast,585-454-2894,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,60,30,518,230000
+ROD,"Rockland, Maine",N,Station Building (with waiting room),Rockland,ME,04841-3366,United States,Northeast,207-596-2202,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Concord Trailways,E,Y,30,30,2,
+ROM,"Rome, New York",N,Station Building (with waiting room),Rome,NY,13440,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,437,34220
+ROY,"Royal Oak, Michigan",N,Platform with Shelter,Royal Oak,MI,48069,United States,Central,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,Y,,,,,E,Y,30,30,664,57984
+RPA,Rail Pass,,Pseudo Station,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RPC,"Rohnert Park, California",N,Curbside Bus Stop only (no shelter),Rohnert Park,CA,94928,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,99,22965
+RPH,"Randolph, Vermont",N,Platform only (no shelter),Randolph,VT,05060,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,705,5091
+RPT,"Reedsport, Oregon",N,Curbside Bus Stop only (no shelter),Reedsport,OR,97467-1605,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,to EUG only,P,Y,30,30,60,
+RSP,"Rouses Point, New York",N,Platform only (no shelter),Rouses Point,NY,12979,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,119,2250
+RSV,"Roseville, California",N,Platform with Shelter,Roseville,CA,95678-2242,United States,Pacific,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,156,32700
+RTE,"Route 128, Westwood, Massachusetts",Y,Station Building (with waiting room),Westwood,MA,02090-2307,United States,Northeast,781-751-5100,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,N,,,,Via Rail Canada,E,Y,30,30,53,12750
+RTL,"Rantoul, Illinois",N,Platform with Shelter,Rantoul,IL,61866,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,C,Y,30,30,755,20641
+RTZ,"Ritzville, Washington",N,Curbside Bus Stop only (no shelter),Ritzville,WA,99169,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,P,Y,30,30,1885,
+RUD,"Rutland, Vermont",N,Station Building (with waiting room),Rutland,VT,05701,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,547,18001
+RUG,"Rugby, North Dakota",Y,Station Building (with waiting room),Rugby,ND,58368,United States,Central,701-776-5774,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,1560,2574
+RVD,"Riverdale, Maryland",,Pseudo Station,Riverdale,MD,20737,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+RVM,"Richmond (Main St), Virginia",N,Station Building (with waiting room),Richmond,VA,23219,United States,Mid-Atlantic,804-646-6246,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,Y,RVX,,,,E,Y,30,30,26,100000
+RVR,"Richmond (Staples Mill Rd), Virginia",Y,Station Building (with waiting room),Richmond,VA,23228,United States,Mid-Atlantic,804-553-2903,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,N,,RVX,,,Via Rail Canada,E,Y,60,30,208,200000
+RVT,"Rio Vista, California",N,Curbside Bus Stop only (no shelter),Rio Vista,CA,94571-1837,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,17,
+SAB,"St. Albans, Vermont",N,Station Building (with waiting room),St Albans,VT,05478,United States,Northeast,802-527-7706,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,389,7409
+SAC,"Sacramento, California",Y,Station Building (with waiting room),Sacramento,CA,95814-2308,United States,Pacific,916-444-2475,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,Y,Y,SAX,,,Via Rail Canada,P,Y,60,30,33,369305
+SAF,"Santa Fe (Lamy Shuttle), New Mexico",N,Curbside Bus Stop only (no shelter),Santa Fe,NM,87501,United States,Southwest,505-982-8829,N,N,N,N,N,N,N,N,Y,N,,,Y,,,,,,M,Y,120,120,,59200
+SAL,"Salisbury, North Carolina",N,Station Building (with waiting room),Salisbury,NC,28144,United States,Southern,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,748,28480
+SAN,"San Diego (Downtown), California",Y,Station Building (with waiting room),San Diego,CA,92101-3339,United States,Southwest,619-239-9989,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,,,,Via Rail Canada,P,Y,60,30,15,875500
+SAO,"Saco, Maine",N,Station Building (with waiting room),Saco,ME,04072-3502,United States,Northeast,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,61,18289
+SAP,"Santa Paula, California",N,Curbside Bus Stop only (no shelter),Santa Paula,CA,93060-3376,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,244,24400
+SAR,"Saratoga Springs, New York",Y,Station Building (with waiting room),Saratoga Springs,NY,12866,United States,Northeast,518-587-8354,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,30,30,325,23000
+SAS,"San Antonio, Texas",Y,Station Building (with waiting room),San Antonio,TX,78205,United States,Southwest,210-223-3226,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,N,,,,Via Rail Canada,C,Y,60,30,660,1296682
+SAT,"Santa Maria, California",N,Curbside Bus Stop only (no shelter),Santa Maria,CA,93455,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,SGX,,,,P,Y,30,30,242,20000
+SAV,"Savannah, Georgia",Y,Station Building (with waiting room),Savannah,GA,31401-1634,United States,Southern,912-234-2611,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,VIA Rail Canada,E,Y,60,30,17,142350
+SBA,"Santa Barbara, California",Y,Station Building (with waiting room),Santa Barbara,CA,93101-3833,United States,Southwest,805-963-1015,Y,N,Y,Y,Y,N,N,Y,Y,Y,N,Y,N,N,,,,Via Rail Canada,P,Y,60,30,22,90200
+SBG,"Sebring, Florida",Y,Station Building (with waiting room),Sebring,FL,33870-3513,United States,Southern,863-385-7188,Y,N,N,Y,N,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canda,E,Y,60,30,145,10648
+SBY,"Shelby, Montana",Y,Station Building (with waiting room),Shelby,MT,59474-2050,United States,Pacific Northwest,406-434-5031,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,,,,Via Rail Canada,M,Y,60,30,3283,3216
+SCA,"St. Catharines, Ontario",Y,Station Building (with waiting room),St. Catharines,ON,L2S 2K3,Canada,VIA Rail Canada Inc.,888-842-7245,Y,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,YCM,VIAnet:  SCAT,VIA Rail Canada,E,Y,45,30,357,
+SCC,"Santa Clara (University), California",N,Platform with Shelter,Santa Clara,CA,95050-4319,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,,,,,P,Y,30,30,69,
+SCD,"St. Cloud, Minnesota",N,Station Building (with waiting room),St. Cloud,MN,56304-0751,United States,Central,320-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,1025,66948
+SCH,"Schriever, Louisiana",N,Platform only (no shelter),Schriever,LA,70395,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,16,3018
+SCS,"Sacramento (State Capitol), California",N,Curbside Bus Stop only (no shelter),Sacramento,CA,95814-4905,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,N,N,N,Y,N,,SAX,,,,P,Y,0,0,21,
+SCZ,"Santa Cruz, California",N,Curbside Bus Stop only (no shelter),Santa Cruz,CA,95060,United States,Pacific,000-000-0000,N,Y,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,9,234400
+SDC,"Sedona, Arizona",N,Curbside Bus Stop only (no shelter),Sedona,AZ,86336-4223,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,,,,Y,,SDX,,,,M,N,15,15,4349,
+SDL,"Slidell, Louisiana",N,Station Building (with waiting room),Slidell,LA,70458,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,8,28089
+SDY,"Schenectady, New York",Y,Station Building (with waiting room),Schenectady,NY,12305-1817,United States,Northeast,518-346-8651,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,30,245,72000
+SEA,"Seattle (Amtrak), Washington",Y,Station Building (with waiting room),Seattle,WA,98104-2868,United States,Pacific Northwest,206-382-4125,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,Y,STX,,,Via Rail Canada,P,Y,60,30,26,530832
+SEB,"Seabrook, Maryland",,Pseudo Station,Lanham,MD,20706,,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+SED,"Sedalia, Missouri",N,Station Building (with waiting room),Sedalia,MO,65301,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,890,20600
+SES,"Seaside, California",N,Curbside Bus Stop only (no shelter),Seaside,CA,93955,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,39,
+SFA,"Sanford (Auto Train), Florida",Y,Station Building (with waiting room),Sanford,FL,32771-2385,United States,Southern,407-323-4800,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,120,120,21,
+SFB,San Francisco Bay Cruise Admission Ticket,,Pseudo Station,San Francisco,CA,94133,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SFC,"San Francisco (Ferry), California",Y,Station Building (with waiting room),San Francisco,CA,94105-1216,United States,Pacific,415-546-4558,Y,Y,N,Y,N,N,N,N,Y,N,N,Y,N,Y,,,,VIA Rail Canada,P,Y,45,30,8,824525
+SFF,"San Francisco (Financial), California",N,Curbside Bus Stop only (no shelter),San Francisco,CA,94111-4800,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,9,659000
+SFG,"San Francisco (Groups Only),California",N,Curbside Bus Stop only (no shelter),San Francisco,CA,94111,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,N,,,,,,P,Y,30,30,,
+SFM,"San Francisco (Conv Ctr), California",N,Curbside Bus Stop only (no shelter),San Francisco,CA,94103-3118,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,29,659000
+SFP,"San Francisco (Caltrain), California",N,Curbside Bus Stop only (no shelter),San Francisco,CA,94107-1617,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,Y,Y,N,N,,,,CalTrain,P,Y,30,30,9,
+SFS,"San Francisco (Shopping), California",N,Curbside Bus Stop only (no shelter),San Francisco,CA,94103-1901,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,35,659000
+SFV,"San Francisco (Civic Center), California",N,Curbside Bus Stop only (no shelter),San Francisco,CA,94102,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,P,Y,15,15,44,
+SFW,"San Francisco (Wharf), California",N,Curbside Bus Stop only (no shelter),San Francisco,CA,94133,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,10,659000
+SGL,"Sagle, Idaho",N,Curbside Bus Stop only (no shelter),Sagle,ID,83860,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,2206,
+SGW,"Saginaw, Michigan",N,Station Building (with waiting room),Saginaw,MI,48607,United States,Central,989-753-5454,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,Indian Trails,E,Y,30,30,594,
+SHB,"Sheboygan, Wisconsin",N,Curbside Bus Stop only (no shelter),Sheboygan,WI,53081,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,628,
+SHR,"Shreveport, Louisiana",N,Curbside Bus Stop only (no shelter),Shreveport,LA,71109-7764,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,,,,,,,C,Y,30,30,250,219000
+SHW,"Shawano, Wisconsin",N,Curbside Bus Stop only (no shelter),Shawano,WI,54166-6160,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,876,
+SID,"Sandpoint (Bus), Idaho",N,Curbside Bus Stop only (no shelter),Sandpoint,ID,83864,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,SDX,,,,P,Y,15,15,2093,
+SIM,"Simi Valley, California",N,Platform only (no shelter),Simi Valley,CA,93063,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,,,,,P,Y,30,30,988,85000
+SJC,"San Jose, California",Y,Station Building (with waiting room),San Jose,CA,95110,United States,Pacific,408-287-1848,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,Y,N,Y,,,,Caltrain / ACE,P,Y,45,30,97,929936
+SJM,"St. Joseph, Michigan",N,Station Building (with waiting room),St. Joseph,MI,49085,United States,Central,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,603,8623
+SKE,"Skykomish (Eastbound), Washington",N,Curbside Bus Stop only (no shelter),Skykomish,WA,98288,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,SYX,,,,P,Y,15,15,933,300
+SKN,"Stockton (711-718), California",Y,Station Building (with waiting room),Stockton,CA,95203,United States,Pacific,209-946-0517,Y,Y,N,Y,N,N,N,Y,Y,Y,N,Y,N,Y,SKX,,,Via Rail Canada,P,Y,45,30,17,290141
+SKT,"Stockton (ACE, 701-704), California",N,Platform with Shelter,Stockton,CA,95202,United States,Pacific,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,SKX,,,,P,Y,30,30,19,
+SKW,"Skykomish (Westbound), Washington",N,Curbside Bus Stop only (no shelter),Skykomish,WA,98288,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,SYX,,,,P,Y,15,15,939,300
+SKY,"Sandusky, Ohio",N,Platform with Shelter,Sandusky,OH,44870-3165,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,597,61963
+SLB,"Salt Lake City (Buses), Utah",N,Station Building (with waiting room),Salt Lake City,UT,84101,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,SCX,,,Greyhound,M,Y,30,30,4232,950000
+SLC,"Salt Lake City (Amtrak), Utah",Y,Station Building (with waiting room),Salt Lake City,UT,84101,United States,Pacific,801-322-3510,Y,N,N,Y,N,N,N,N,Y,Y,N,N,Y,Y,SCX,,,Via Rail Canada,M,Y,60,30,4231,950000
+SLG,"Salem (Greyhound), Oregon",N,Station Building (with waiting room),Salem,OR,97301-3725,United States,Pacific Northwest,503-362-2428,N,N,N,N,N,N,N,N,Y,,,,Y,,SMX,,,Greyhound,P,Y,30,30,160,
+SLH,"Stateline Transit Center, California",N,Curbside Bus Stop only (no shelter),Stateline,CA,96150,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,,P,Y,30,30,6293,
+SLM,"Salem, Oregon",Y,Station Building (with waiting room),Salem,OR,97301,United States,Pacific Northwest,503-588-1551,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,N,N,SMX,,,Via Rail Canada,P,Y,45,30,165,100000
+SLN,"Stateline, Nevada",N,Curbside Bus Stop only (no shelter),Stateline,NV,89449,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,P,Y,15,15,6325,
+SLO,"San Luis Obispo, California",Y,Station Building (with waiting room),San Luis Obispo,CA,93401-4449,United States,Southwest,805-541-0505,Y,Y,Y,Y,Y,N,N,Y,Y,Y,N,Y,N,N,SNX,,,Via Rail Canada,P,Y,60,30,248,41200
+SLP,"San Luis Obispo (Cal Poly), California",N,Curbside Bus Stop only (no shelter),San Luis Obispo,CA,93401,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,SNX,,,,P,Y,30,30,391,40400
+SLQ,"St-Lambert, Quebec",Y,Station Building (with waiting room),St-Lambert,QC,J4P 2G5,Canada,VIA Rail Canada Inc.,888-842-7245,Y,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,VIAnet:  SLAM,VIA Rail Canada,E,Y,45,30,69,50000
+SLS,"Salisbury (BayRunner Shuttle), Maryland",N,Curbside Bus Stop only (no shelter),Salisbury,MD,21801,United States,Mid-Atlantic,410-912-6000,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,8,
+SLT,"South Lake Tahoe, California",N,Curbside Bus Stop only (no shelter),South Lake Tahoe,CA,96151,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,,P,Y,30,30,6271,23100
+SLV,"Solvang, California",N,Curbside Bus Stop only (no shelter),Solvang,CA,93463,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,,P,Y,30,30,495,20000
+SLY,"Salisbury (Greyhound), Maryland",N,Station Building (with waiting room),Salisbury,MD,21801-4126,United States,Mid-Atlantic,410-677-3017,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound,E,Y,30,30,29,
+SMC,"San Marcos, Texas",N,Platform with Shelter,San Marcos,TX,78666-6310,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,573,29800
+SMD,"Madison (Dutch Mill), Wisconsin",N,Curbside Bus Stop only (no shelter),Madison,WI,53716,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,MSX,,,,C,Y,30,30,851,
+SMI,"Sault Sainte Marie, Michigan",N,Curbside Bus Stop only (no shelter),Sault Sainte Marie,MI,49783-3619,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,15,15,701,
+SMR,"Smith River, California",N,Curbside Bus Stop only (no shelter),Smith River,CA,95567,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,N,Y,,,,,,P,Y,15,15,79,
+SMT,"Summit, Illinois",N,Platform with Shelter,Summit,IL,60501,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,600,11000
+SNA,"Santa Ana, California",Y,Station Building (with waiting room),Santa Ana,CA,92701,United States,Southwest,714-547-8389,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,N,Y,,,,Via Rail Canada,P,Y,45,30,137,210000
+SNB,"San Bernardino (Amtrak Station), California",N,Station Building (with waiting room),San Bernardino,CA,92410-1715,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,60,45,1064,187000
+SNC,"San Juan Capistrano, California",Y,Station Building (with waiting room),San Juan Capistrano,CA,92675,United States,Southwest,949-240-2972,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,N,N,N,,,,,P,Y,30,30,112,25000
+SND,"Sanderson, Texas",N,Platform with Shelter,Sanderson,TX,79848,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,2774,974
+SNP,"San Clemente Pier, California",N,Platform only (no shelter),San Clemente,CA,92672-5301,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,18,50000
+SNS,"Salinas, California",Y,Station Building (with waiting room),Salinas,CA,93901-1432,United States,Pacific,831-422-7458,Y,N,N,Y,Y,N,N,Y,Y,Y,N,Y,N,Y,,,,Via Rail Canada,P,Y,45,30,52,145032
+SNY,"Stanley, Wisconsin",N,Curbside Bus Stop only (no shelter),Stanley,WI,54768,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,1065,
+SOB,"South Bend, Indiana",Y,Station Building (with waiting room),South Bend,IN,46628,United States,Central,574-288-2212,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,45,30,715,125580
+SOL,"Solana Beach, California",Y,Station Building (with waiting room),Solana Beach,CA,92075,United States,Southwest,858-259-2697,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y,N,N,,,,Via Rail Canada,P,Y,45,30,79,17000
+SOP,"Southern Pines, North Carolina",N,Station Building (with waiting room),Southern Pines,NC,28387,United States,Southern,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,508,8800
+SPB,"Spartanburg, South Carolina",N,Station Building (with waiting room),Spartanburg,SC,29303,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,759,38561
+SPD,"San Pedro (Catalina Terminal), California",N,Curbside Bus Stop only (no shelter),San Pedro,CA,90731,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,LBX,,,,P,Y,30,30,13,
+SPG,"Springfield, Massachusetts",Y,Station Building (with waiting room),Springfield,MA,01103,United States,Northeast,413-785-4230,Y,Y,N,Y,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,30,30,69,27900
+SPI,"Springfield, Illinois",Y,Station Building (with waiting room),Springfield,IL,62701-1106,United States,Central,217-753-2013,Y,N,N,Y,Y,N,N,Y,Y,Y,N,Y,N,N,,,,Via Rail Canada,C,Y,60,30,596,116482
+SPK,"Spokane, Washington",Y,Station Building (with waiting room),Spokane,WA,99201-3704,United States,Pacific Northwest,509-624-5144,Y,Y,N,Y,Y,N,N,N,Y,Y,N,N,Y,Y,,,,Via Rail Canada,P,Y,60,30,1905,200000
+SPL,"Staples, Minnesota",N,Station Building (with waiting room),Staples,MN,56479,United States,Central,218-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,1274,3019
+SPM,"South Shore-South Portsmouth, Kentucky",N,Platform with Shelter,South Shore,KY,41174,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,532,34989
+SPO,"San Pedro (Downtown), California",N,Curbside Bus Stop only (no shelter),San Pedro,CA,90731,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,,,LBX,,,,P,Y,30,30,113,
+SPT,"Sandpoint (Amtrak), Idaho",N,Platform with Shelter,Sandpoint,ID,83864,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,SDX,,,,P,Y,30,30,2087,6835
+SPX,"Sparks, Nevada (Thruway Buses)",N,Curbside Bus Stop only (no shelter),Sparks,NV,89431,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,SRX,,,,P,Y,30,30,4418,
+SQA,"Squamish, British Columbia",N,Station Building (with waiting room),Squamish,BC,V0N 3G0,Canada,Pacific,800-661-8747,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound Canada,P,Y,30,30,14,
+SRA,"Sarasota, Florida",N,Curbside Bus Stop only (no shelter),Sarasota,FL,34231-5914,United States,Southern,000-000-0000,N,N,N,Y,N,N,N,N,Y,N,N,Y,N,N,,,,,E,Y,30,30,24,
+SRC,"Santa Rosa, California",N,Curbside Bus Stop only (no shelter),Santa Rosa,CA,95401,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,157,104700
+SRK,"Saratoga Race Course, Saratoga Springs, New York",N,Curbside Bus Stop only (no shelter),Saratoga Springs,NY,12866,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,E,Y,15,15,309,
+SRT,"Searsport, Maine",N,Curbside Bus Stop only (no shelter),Searsport,ME,04974-3322,United States,Northeast,207-548-2728,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,84,
+SSD,"Seaside, Oregon",N,Curbside Bus Stop only (no shelter),Seaside,OR,97301,United States,Pacific Northwest,800-442-4106,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,Oregon Coachways,P,Y,30,30,6,5900
+SSM,"Selma, North Carolina",N,Station Building (with waiting room),Selma,NC,27576,United States,Southern,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,175,30000
+SSP,"Silver Spring, Maryland",,Pseudo Station,Silver Spring,MD,20910,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+SSW,"Stevens Pass, Washington",N,Curbside Bus Stop only (no shelter),Stevens Pass,WA,98826,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,4056,500
+STA,"Staunton, Virginia",N,Station Building (with waiting room),Staunton,VA,24401,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,1419,23341
+STD,"St. Denis, Maryland",,Pseudo Station,Baltimore,MD,21227,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+STG,"St. George, Utah",N,Curbside Bus Stop only (no shelter),St. George,UT,84770-5249,United States,Southwest,435-673-2933,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,M,Y,30,30,2590,
+STI,"St. Ignace, Michigan",N,Station Building (with waiting room),St. Ignace,MI,49781-9617,United States,Central,906-643-1531,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,,E,Y,30,30,680,2575
+STL,"St. Louis, Missouri",Y,Station Building (with waiting room),St. Louis,MO,63103-2607,United States,Central,314-331-3309,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,,,,Via Rail Canada,C,Y,60,45,458,347181
+STM,"Stamford, Connecticut",Y,Station Building (with waiting room),Stamford,CT,06902,United States,Northeast,203-363-5782,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,,,,,Metro-North,E,Y,45,30,20,102453
+STN,"Stanley, North Dakota",N,Station Building (with waiting room),Stanley,ND,58784,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,2251,1218
+STP,"St Petersburg-Clearwater, Florida",Y,Station Building (with waiting room),Clearwater,FL,33760-4846,United States,Southern,727-540-0034,Y,N,N,Y,N,N,N,N,Y,N,N,Y,N,N,,,,Via Rail,E,Y,45,30,10,
+STS,"New Haven (State Street), Connecticut",,Pseudo Station,New Haven,CT,06510,,Shore Line East,203-777-7433,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+STW,"Stanwood, Washington",N,Platform only (no shelter),Stanwood,WA,98292,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,,,,,,,,,P,Y,30,30,13,
+SUI,"Suisun-Fairfield, California",N,Station Building (with waiting room),Suisun City,CA,94585-2466,United States,Pacific,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,Y,N,Y,,,,,P,Y,30,30,8,
+SUN,"Sunriver, Oregon",N,Curbside Bus Stop only (no shelter),Sunriver,OR,97707,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,4164,
+SUT,"Sun City-Menifee, California",N,Curbside Bus Stop only (no shelter),Sun City-Menifee,CA,92586,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,,,,,,P,Y,30,30,1435,
+SUY,"Surrey, British Columbia",N,Curbside Bus Stop only (no shelter),South Surrey,BC,V4A 4Z2,Canada,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,,P,Y,30,30,114,245173
+SVF,"Seattle (Ferry - Pier 69), Washington",N,Platform with Shelter,Seattle,WA,98121,United States,Pacific,206-448-5000,N,N,N,N,N,N,N,N,Y,N,N,N,N,Y,STX,,,Victoria Clipper,P,Y,45,45,7,
+SVG,"Savage, Maryland",,Pseudo Station,Annapolis Junction,MD,20701,United States,MARC,800-325-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+SVP,"Stevens Point (200 Division St), Wisconsin",N,Curbside Bus Stop only (no shelter),Stevens Point,WI,54481-1843,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,1109,
+SVT,"Sturtevant, Wisconsin",N,Station Building (with waiting room),Sturtevant,WI,53177-1764,United States,Central,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,730,6913
+SVU,"Stevens Point (University of Wisconsin), Wisconsin",N,Curbside Bus Stop only (no shelter),Stevens Point,WI,54481,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,1093,
+SVY,"Scotts Valley, California",N,Curbside Bus Stop only (no shelter),Scotts Valley,CA,95066-4029,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,,,,,P,Y,10,10,542,
+SYR,"Syracuse, New York",Y,Station Building (with waiting room),Syracuse,NY,13208,United States,Northeast,315-477-1152,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,30,370,160000
+TAC,"Tacoma, Washington",Y,Station Building (with waiting room),Tacoma,WA,98421-2122,United States,Pacific Northwest,253-627-8141,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,Y,Y,,,,Via Rail Canada,P,Y,60,30,19,150000
+TAY,"Taylor, Texas",N,Platform only (no shelter),Taylor,TX,76574-3627,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,546,15322
+TCA,"Toccoa, Georgia",N,Station Building (with waiting room),Toccoa,GA,30577,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,1012,9069
+TCL,"Tuscaloosa, Alabama",Y,Station Building (with waiting room),Tuscaloosa,AL,35401,United States,Southern,205-758-3578,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,C,Y,60,45,187,83052
+TDO,"Toledo, Oregon",N,Curbside Bus Stop only (no shelter),Toledo,OR,97391-1000,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,Bus tickets,P,Y,30,30,19,
+TEH,"Tehachapi, California",N,Curbside Bus Stop only (no shelter),Tehachapi,CA,93561,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,Y,,,,,P,Y,30,30,3959,6700
+TFI,"Twin Falls, Idaho",N,Curbside Bus Stop only (no shelter),Twin Falls,ID,83301,United States,Pacific Northwest,208-733-3002,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound,M,Y,30,30,3661,
+THD,"The Dalles, Oregon",N,Curbside Bus Stop only (no shelter),The Dalles,OR,97058,United States,Pacific Northwest,541-296-2421,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound only,P,Y,30,30,101,
+THN,"Thurmond, West Virginia",N,Platform with Shelter,Thurmond,WV,25936,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,1073,200
+TLT,"Tilton, New Hampshire",N,Curbside Bus Stop only (no shelter),Tilton,NH,03276,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,476,
+TOA,"Torrance, California",N,Curbside Bus Stop only (no shelter),Torrance,CA,90502,United States,Southwest,800-872-7245,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,P,Y,15,15,29,
+TOH,"Tomah, Wisconsin",N,Station Building (with waiting room),Tomah,WI,54660,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,964,8664
+TOL,"Toledo, Ohio",Y,Station Building (with waiting room),Toledo,OH,43604-8817,United States,Central,419-246-0159,Y,N,N,Y,Y,N,N,Y,Y,Y,N,Y,N,,,,,Via Rail Canada,E,Y,60,30,594,350000
+TOP,"Topeka, Kansas",Y,Station Building (with waiting room),Topeka,KS,66607-1100,United States,Central,785-357-5362,Y,N,N,N,N,N,N,N,Y,Y,,,,,,,,,C,Y,45,15,889,127473
+TPA,"Tampa, Florida",Y,Station Building (with waiting room),Tampa,FL,33602-3555,United States,Southern,813-221-7601,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,Y,N,N,,,,Via Rail Canada,E,Y,60,30,22,332888
+TPL,"Temple, Texas",Y,Station Building (with waiting room),Temple,TX,76501,United States,Southwest,254-742-2019,Y,N,N,N,N,N,N,N,Y,Y,N,N,Y,N,,,,Via Rail Canada,C,Y,60,30,704,60000
+TRA,"Tracy (Bus), California",N,Curbside Bus Stop only (no shelter),Tracy,CA,95376-1746,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,18,18428
+TRC,"Tracy (ACE Station), California",N,Platform with Shelter,Tracy,CA,95377,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,Y,N,N,,,,,,P,Y,15,15,152,
+TRE,"Trenton, New Jersey",Y,Station Building (with waiting room),Trenton,NJ,08609-1238,United States,Northeast,609-989-1770,Y,Y,N,N,N,N,N,Y,Y,Y,Y,N,N,Y,,,,NJ Transit/SEPTA/VIA,E,Y,45,30,40,91430
+TRI,"Trinidad, Colorado",N,Platform with Shelter,Trinidad,CO,81082,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,Y,30,30,5988,9663
+TRK,"Turlock-Denair, California",N,Platform with Shelter,Denair,CA,95316,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,123,39000
+TRU,"Truckee, California",N,Station Building (with waiting room),Truckee,CA,96161-0329,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,5825,2389
+TRV,"Traverse City, Michigan",N,Curbside Bus Stop only (no shelter),Traverse City,MI,49684-2215,United States,Central,231-946-5180,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,E,Y,30,30,591,15800
+TSY,"Tusayan, Arizona",N,Curbside Bus Stop only (no shelter),Tusayan,AZ,86023,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,M,N,30,30,6594,
+TUK,"Tukwila, Washington",N,Platform with Shelter,Tukwila,WA,98188,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,P,Y,30,30,29,14480
+TUS,"Tucson, Arizona",Y,Station Building (with waiting room),Tucson,AZ,85701-1899,United States,Southwest,520-623-4442,Y,Y,N,Y,Y,N,N,N,Y,Y,N,N,N,N,,,,,M,N,60,30,2394,541132
+TVF,"The Villages, Florida",N,Curbside Bus Stop only (no shelter),The Villages,FL,32159-9318,United States,Southern,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,E,Y,15,15,70,
+TWC,"Tawas City, Michigan",N,Curbside Bus Stop only (no shelter),Tawas City,MI,48763,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,E,Y,30,30,591,
+TWO,"Toronto, Ontario",Y,Station Building (with waiting room),Toronto,ON,M5J 1E7,Canada,VIA Rail Canada Inc.,888-842-7245,Y,N,N,N,N,N,Y,N,Y,Y,Y,N,N,,,YBZ,VIAnet:  TRTO,VIA Rail Canada,E,Y,45,30,266,3000000
+TXA,"Texarkana, Arkansas",Y,Station Building (with waiting room),Texarkana,AR,71854-5907,United States,Southwest,870-772-1011,Y,N,N,Y,N,N,N,Y,Y,Y,N,N,N,N,,,,,C,Y,60,30,311,93000
+TYR,"Tyrone, Pennsylvania",N,Platform with Shelter,Tyrone,PA,16686,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,912,7000
+UCA,"Utica, New York",Y,Station Building (with waiting room),Utica,NY,13501,United States,Northeast,315-797-8962,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,30,418,63000
+UKH,"Ukiah, California",N,Curbside Bus Stop only (no shelter),Ukiah,CA,95482,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,601,13700
+UOP,"University of Pennsylvania, Philadelphia, Pennsylvania",,Pseudo Station,Philadelphia,PA,19104,United States,Mid-Atlantic,800-USA-RAIL,,Y,,,,,,,,,,,,,,,,,E,Y,,,,
+USA,USA Rail Pass,,Pseudo Station,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,
+USF,USA Rail Pass Pseudo Station for MAAS processing only,,Pseudo Station,,,,,,,,,,,,,,,N,,,,,,,,,,,,,,,
+UWS,"Winston-Salem State Univ, Winston-Salem, North Carolina",N,Curbside Bus Stop only (no shelter),Winston-Salem,NC,27110-0001,United States,Southern,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,E,Y,30,30,873,187000
+VAB,"Virginia Beach, Virginia",N,Platform with Shelter,Virginia Beach,VA,23451,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,E,Y,30,30,14,500000
+VAC,"Vancouver, British Columbia, Canada",Y,Station Building (with waiting room),Vancouver,BC,V6A 4C7,Canada,VIA Rail Canada Inc.,888-842-7245,Y,N,N,Y,N,N,N,N,Y,Y,Y,N,Y,,,,VIAnet:  VCVR,VIA Rail Canada,P,Y,60,60,20,500000
+VAE,"Vale, Oregon",N,Curbside Bus Stop only (no shelter),Vale,OR,97918-1163,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,none,P,Y,30,30,2243,
+VAI,"Vail, Colorado",N,Curbside Bus Stop only (no shelter),Vail,CO,81657,United States,Central,970-476-5137,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,M,Y,30,30,8190,4460
+VAL,"Vallejo, California",N,Curbside Bus Stop only (no shelter),Vallejo,CA,94589,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,,P,Y,30,30,7,
+VAN,"Vancouver, Washington, United States",Y,Station Building (with waiting room),Vancouver,WA,98660,United States,Pacific Northwest,360-694-7307,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,P,Y,60,30,53,135100
+VAS,"Livermore (Vasco Road-ACE Station), California",N,Platform with Shelter,Livermore,CA,94550,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,Y,,,,,,,,P,Y,15,15,563,
+VBC,"Victoria (Bus Station), British Columbia",N,Station Building (with waiting room),Victoria,BC,V8W 3M6,Canada,Pacific,250-385-4411,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,VIX,,,Pacific Coach Lines,P,Y,30,30,23,66000
+VEC,"Ventura, California",N,Platform with Shelter,Ventura,CA,93003,United States,Southwest,000-000-0000,N,N,Y,N,N,N,N,N,Y,Y,N,Y,N,N,,,,,P,Y,30,30,13,55000
+VIA,VIA Rail Canada,,Pseudo Station,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VIF,"Victoria (Ferry), British Columbia",N,Platform only (no shelter),Victoria,BC,V8V 1W9,Canada,Pacific,250-382-8100,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Y,VIX,,,Victoria Clipper,P,Y,45,45,15,
+VIS,"Visalia, California",N,Station Building (with waiting room),Visalia,CA,93291-5053,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,Y,,,,,P,Y,30,30,334,98400
+VMW,"Six Flags Discovery Kingdom (Seasonal), Vallejo, California",N,Curbside Bus Stop only (no shelter),Vallejo,CA,94589,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,None,P,Y,30,30,83,
+VNC,"Van Nuys, California",Y,Station Building (with waiting room),Van Nuys,CA,91405,United States,Southwest,818-901-6443,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,N,N,VNX,,,Via Rail Canada,P,Y,60,30,779,136443
+VRB,"Victorville (Thruway Buses), California",N,Station Building (with waiting room),Victorville,CA,92395-3219,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,,Y,VRX,,,Greyhound,P,Y,15,15,2723,25000
+VRV,"Victorville (Southwest Chief train), California",N,Platform with Shelter,Victorville,CA,92395,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,VRX,,,,P,Y,30,30,2725,25000
+WAB,"Waterbury, Vermont",N,Platform with Shelter,Waterbury,VT,05676,United States,Northeast,802-244-6404,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,E,Y,30,30,421,1689
+WAC,"Wasco, California",N,Platform with Shelter,Wasco,CA,93280-2026,United States,Pacific,000-000-0000,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,Y,,,,,P,Y,30,30,337,24279
+WAH,"Washington, Missouri",N,Station Building (with waiting room),Washington,MO,63090-2118,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,495,13000
+WAR,"Warrensburg, Missouri",N,Station Building (with waiting room),Warrensburg,MO,64093-2331,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,832,13807
+WAS,"Washington, District of Columbia",Y,Station Building (with waiting room),Washington,DC,20002-4214,United States,Mid-Atlantic,202-906-3260,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N,Y,N,,,,"MARC, VRE, VIA",E,Y,60,30,56,650000
+WAU,"Waupaca, Wisconsin",N,Curbside Bus Stop only (no shelter),Waupaca,WI,54981-8236,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,906,
+WBG,"Williamsburg, Virginia",Y,Station Building (with waiting room),Williamsburg,VA,23185-3650,United States,Mid-Atlantic,757-229-8750,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,30,77,10000
+WBL,"West Baltimore, Maryland",,Pseudo Station,Baltimore,MD,21202,United States,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+WCH,"Westchester, California",N,Curbside Bus Stop only (no shelter),Westchester,CA,90045,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,P,Y,15,15,69,
+WCT,"White City, Oregon",N,Curbside Bus Stop only (no shelter),White City,OR,97503,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,30,30,1315,
+WDB,"Woodbridge, Virginia",N,Platform with Shelter,Woodbridge,VA,22194,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,,E,Y,30,30,49,
+WDL,"Wisconsin Dells, Wisconsin",N,Station Building (with waiting room),Wisconsin Dells,WI,53965,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,C,Y,30,30,891,2476
+WDO,"Waldo, Florida",N,Station Building (with waiting room),Waldo,FL,32694-0802,United States,Southern,352-468-9422,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,,E,Y,30,30,153,
+WDR,"Waldoboro, Maine",N,Curbside Bus Stop only (no shelter),Waldoboro,ME,04572,United States,Northeast,207-832-4110,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Concord Trailways,E,Y,30,30,51,
+WEM,"Wells, Maine",N,Station Building (with waiting room),Wells,ME,04090,United States,Northeast,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,133,10038
+WEN,"Wenatchee, Washington",N,Platform with Shelter,Wenatchee,WA,98801-6008,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,Y,,,,,P,Y,30,30,650,17000
+WES,"Westwood-UCLA, California",N,Curbside Bus Stop only (no shelter),Los Angeles,CA,90024,United States,Southwest,800-872-7245,N,N,N,N,N,N,N,N,Y,,,Y,,,,,,,P,Y,15,15,373,
+WFD,"Wallingford, Connecticut",N,Platform with Shelter,Wallingford,CT,06492,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,78,38000
+WFH,"Whitefish, Montana",Y,Station Building (with waiting room),Whitefish,MT,59937-2567,United States,Pacific Northwest,406-862-2268,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,M,Y,60,30,3033,5032
+WGL,"West Glacier, Montana",N,Station Building (with waiting room),West Glacier,MT,59936,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,M,Y,30,30,3230,200
+WGM,"Washington Grove, Maryland",,Pseudo Station,Gaithersburg,MD,20877,,MARC,800-325-RAIL,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+WHL,"Whitehall, New York",N,Platform with Shelter,Whitehall,NY,12887,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,130,3000
+WIH,"Wishram, Washington",N,Platform with Shelter,Wishram,WA,98673,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,179,500
+WIL,"Wilmington, Delaware",Y,Station Building (with waiting room),Wilmington,DE,19801-5036,United States,Mid-Atlantic,302-429-6529,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,,,,SEPTA   800-652-3278,E,Y,60,30,9,75000
+WIN,"Winona, Minnesota",Y,Station Building (with waiting room),Winona,MN,55987,United States,Central,507-452-8612,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,C,Y,60,30,656,26785
+WIP,"Winter Park/Fraser, Colorado",N,Platform with Shelter,Fraser,CO,80442,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,Y,30,30,8567,500
+WIT,"Wittenberg, Wisconsin",N,Curbside Bus Stop only (no shelter),Wittenberg,WI,54499,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,C,Y,15,15,1172,
+WLN,"Wilson, North Carolina",Y,Station Building (with waiting room),Wilson,NC,27893,United States,Southern,252-246-1060,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,60,141,37000
+WLO,"Winslow, Arizona",N,Platform with Shelter,Winslow,AZ,86047,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,N,30,30,4853,9000
+WLY,"Westerly, Rhode Island",Y,Station Building (with waiting room),Westerly,RI,02891,United States,Northeast,401-596-2355,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,60,45,34,30000
+WMA,"Williams, Arizona",N,Station Building (with waiting room),Williams,AZ,86046-2563,United States,Southwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,Y,Y,N,,,,,,M,N,30,30,6762,3201
+WMJ,"Williams Junction, Arizona",N,Platform only (no shelter),Williams Junction,AZ,86046,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,Y,N,Y,,,,,,M,N,30,30,6762,0
+WND,"Windsor, Connecticut",N,Platform with Shelter,Windsor,CT,06095-2908,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,54,25000
+WNK,"Walloon Lake, Michigan",N,Curbside Bus Stop only (no shelter),Walloon Lake,MI,49796,United States,Central,800-231-2222,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,E,Y,30,30,716,
+WNL,"Windsor Locks, Connecticut",N,Platform with Shelter,Windsor Locks,CT,06096,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,30,13043
+WNM,"Windsor, Vermont",N,Platform only (no shelter),Windsor,VT,05089-1407,United States,Northeast,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,333,3696
+WNN,"Winnemucca, Nevada",N,Platform with Shelter,Winnemucca,NV,89445,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,P,Y,30,30,4338,3587
+WNR,"Walnut Ridge, Arkansas",N,Station Building (with waiting room),Walnut Ridge,AR,72476,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,No,C,Y,30,30,271,4666
+WNS,"Winston-Salem, North Carolina",N,Station Building (with waiting room),Winston-Salem,NC,27101,United States,Southern,336-883-7278,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,E,Y,30,30,933,186000
+WNT,"Warrenton, Oregon",N,Curbside Bus Stop only (no shelter),Warrenton,OR,97146-9319,United States,Pacific Northwest,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,bus driver,P,Y,30,30,22,4096
+WOB,"Woburn, Massachusetts",N,Station Building (with waiting room),Woburn,MA,01801-1081,United States,Northeast,800-USA-RAIL,N,Y,N,N,N,N,N,N,Y,Y,Y,N,N,Y,,,,,E,Y,30,30,75,37010
+WOR,"Worcester, Massachusetts",Y,Station Building (with waiting room),Worcester,MA,01604,United States,Northeast,508-755-5677,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,Y,N,,,,Via Rail Canada,E,Y,30,30,473,172648
+WPB,"West Palm Beach, Florida",Y,Station Building (with waiting room),West Palm Beach,FL,33401,United States,Southern,561-832-6169,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,,,,Via Rail Canada,E,Y,60,30,22,89302
+WPK,"Winter Park, Florida",Y,Station Building (with waiting room),Winter Park,FL,32789-3825,United States,Southern,407-645-5055,Y,Y,N,Y,N,N,N,Y,Y,Y,N,N,N,,,,,Via Rail Canada,E,Y,60,30,93,24090
+WPN,"Waupun, Wisconsin",N,Curbside Bus Stop only (no shelter),Waupun,WI,53963,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,889,
+WPT,"Wolf Point, Montana",Y,Station Building (with waiting room),Wolf Point,MT,59201-1413,United States,Pacific Northwest,406-653-2350,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,M,Y,60,30,2003,2663
+WRJ,"White River Jct., Vermont",N,Station Building (with waiting room),White River Junction,VT,05001-7042,United States,Northeast,802-295-7160,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,364,2569
+WRM,"Western Railway Museum, Rio Vista Junction, California",N,Curbside Bus Stop only (no shelter),Rio Vista Junction,CA,94585,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,15,15,90,
+WSB,"Westbrook, Connecticut",,Pseudo Station,Westbrook,CT,06498,United States,Shore Line East,203-777-7433,,N,,,,,,,,,,,,,,,,,E,Y,,,,
+WSF,"Westfield, Wisconsin",N,Curbside Bus Stop only (no shelter),Westfield,WI,53964,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,860,
+WSJ,"Wausau (Transit Center), Wisconsin",N,Curbside Bus Stop only (no shelter),Wausau,WI,54403,United States,Central,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,C,Y,15,15,1215,
+WSL,"Whistler, British Columbia",N,Curbside Bus Stop only (no shelter),Whistler Village,BC,V0N 1B4,Canada,Pacific,604-932-5031,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Greyhound Canada,P,Y,30,30,2138,
+WSP,"Westport, New York",N,Station Building (with waiting room),Westport,NY,12993,United States,Northeast,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,N,,,,,E,Y,30,30,265,750
+WSS,"White Sulphur Springs, West Virginia",N,Platform with Shelter,White Sulphur Springs,WV,24986,United States,Mid-Atlantic,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,1928,2321
+WST,"Wiscasset, Maine",N,Curbside Bus Stop only (no shelter),Wiscasset,ME,04578-4624,United States,Northeast,207-882-5544,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,Concord Trailways,E,Y,30,30,113,
+WSU,"Wausau-Rothschild (Lamer Bus), Wisconsin",N,Station Building (with waiting room),Rothschild,WI,54474,United States,Central,414-282-3566,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,,,,Lamers Bus Lines,C,Y,30,30,1175,
+WTH,"Winter Haven, Florida",Y,Station Building (with waiting room),Winter Haven,FL,33880-4375,United States,Southern,863-294-9203,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,,,,Via Rail Canada,E,Y,60,30,144,30978
+WTI,"Waterloo, Indiana",N,Platform only (no shelter),Waterloo,IN,46793,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,915,2040
+WTN,"Williston, North Dakota",Y,Station Building (with waiting room),Williston,ND,58801-6057,United States,Pacific Northwest,701-572-7171,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,,,,,No,C,Y,60,60,1867,12641
+WTS,"Willits, California",N,Curbside Bus Stop only (no shelter),Willits,CA,95490,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,1369,4008
+WWA,"Walla Walla, Washington",N,Curbside Bus Stop only (no shelter),Walla Walla,WA,99362,United States,Pacific Northwest,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,,,,Y,,,,,,P,Y,30,30,947,
+WWD,"Wildwood, Florida",N,Station Building (with waiting room),Wildwood,FL,34785-3842,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,,,,,E,Y,30,30,64,
+YAZ,"Yazoo City, Mississippi",N,Platform with Shelter,Yazoo City,MS,39194,United States,Central,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,,,,,C,Y,30,30,107,14550
+YEM,"Yemassee, South Carolina",N,Platform with Shelter,Yemassee,SC,29945,United States,Southern,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,E,Y,30,30,26,2000
+YNY,"Yonkers, New York",N,Station Building (with waiting room),Yonkers,NY,10701-3544,United States,Northeast,914-965-8500,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,,,,,Metro-North,E,Y,30,30,11,186300
+YOA,"Yosemite - Ahwahnee Hotel, California",N,Curbside Bus Stop only (no shelter),Yosemite National Park,CA,95389,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,15,15,3993,
+YOC,"Yosemite - Curry Village, California",N,Curbside Bus Stop only (no shelter),Yosemite National Park,CA,95389,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,15,15,3995,
+YOF,"Yosemite - Crane Flat, California",N,Curbside Bus Stop only (no shelter),Yosemite National Park,CA,95389,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,15,15,6158,
+YOS,"Yosemite - Lodge, California",N,Curbside Bus Stop only (no shelter),Yosemite National Park,CA,95389,United States,Pacific,000-000-0000,N,N,N,N,N,N,N,N,Y,N,N,Y,N,,,,,,P,Y,30,30,3978,
+YOT,"Yosemite - Tuolumne Meadow, California",N,Curbside Bus Stop only (no shelter),Yosemite National Park,CA,95389,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,15,15,8593,
+YOV,"Yosemite - Visitor Center, California",N,Curbside Bus Stop only (no shelter),Yosemite National Park,CA,95389,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,Y,,,,,,P,Y,15,15,3996,
+YOW,"Yosemite - White Wolf, California",N,Curbside Bus Stop only (no shelter),Yosemite National Park,CA,95389,United States,Pacific,800-USA-RAIL,N,N,N,N,N,N,N,N,Y,N,N,N,N,,,,,,P,Y,15,15,7877,
+YUM,"Yuma, Arizona",N,Platform only (no shelter),Yuma,AZ,85364,United States,Southwest,000-000-0000,N,N,N,N,N,N,N,N,Y,Y,N,N,N,,,,,,M,N,30,30,135,87423
+ZMW,Six Flags Discovery Kingdom Admission Ticket ,,Pseudo Station,Vallejo,CA,94589,United States,,,,,,,,,,,,,,,,,,,,,,,,,,
