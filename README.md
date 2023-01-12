@@ -21,9 +21,8 @@ Credits: 3/0/3
 Office Telephone Number: NA, please use email
 
 Email address:
-[[zielaskid\@wit.edu]{.underline}](mailto:dzielaski1@wit.edu);
-[[dzielaski\@gmail.com]{.underline}](mailto:dzielaski@gmail.com) (please
-email both email addresses)
+[zielaskid\@wit.edu](mailto:dzielaski1@wit.edu);
+[dzielaski\@gmail.com](mailto:dzielaski@gmail.com) (please email both email addresses)
 
 **COURSE DESCRIPTION:**
 
@@ -48,53 +47,53 @@ Students are expected/required to use syntax appropriately.
 
 **REQUIRED TEXTBOOK(S):**
 
-Please see the [[list of articles from Harvard Business Review
-(HBR)]{.underline}](https://docs.google.com/document/d/1a3m7gx0S1DDsdLuJMFiPHIYddqkXF0xfaU5DCRjXrVc/edit).
+Please see the [list of articles from Harvard Business Review
+(HBR)](https://docs.google.com/document/d/1a3m7gx0S1DDsdLuJMFiPHIYddqkXF0xfaU5DCRjXrVc/edit).
 
 **RECOMMENDED LEARNING MATERIALS (NOT REQUIRED):**
 
 Here are a few books that cover using Python for data science:
 
-\"Python for Data Science Handbook\" by Jake VanderPlas: This book
-provides a thorough introduction to using Python for data science,
-including working with scientific libraries such as NumPy and pandas,
-and using Jupyter notebooks.
+### "Python for Data Science Handbook" by Jake VanderPlas: 
+>This book provides a thorough introduction to using Python for data science,
+>including working with scientific libraries such as NumPy and pandas,
+>and using Jupyter notebooks.
 
-\"Data Science from Scratch: First Principles with Python\" by Joel
-Grus: This book covers the basics of data science and machine learning,
-including working with data in Python using libraries such as NumPy and
-pandas.
+### "Data Science from Scratch: First Principles with Python" by Joel Grus: 
+>This book covers the basics of data science and machine learning,
+>including working with data in Python using libraries such as NumPy and
+>pandas.
 
-\"Doing Data Science: Straight Talk from the Frontline\" by Cathy
-O\'Neil and Rachel Schutt: This book provides an overview of data
-science, including using Python for data manipulation, visualization,
-and machine learning.
+### "Doing Data Science: Straight Talk from the Frontline" by Cathy O\'Neil and Rachel Schutt: 
+>This book provides an overview of data
+>science, including using Python for data manipulation, visualization,
+>and machine learning.
 
-\"Python Data Science Cookbook\" by Packt Publishing: This cookbook
-provides a collection of recipes for using Python for data science,
-including working with data, visualizing data, and applying machine
-learning algorithms.
+### "Python Data Science Cookbook\" by Packt Publishing: 
+> This cookbook
+> provides a collection of recipes for using Python for data science,
+> including working with data, visualizing data, and applying machine
+> learning algorithms.
 
 **COURSE LEARNING OUTCOMES**
 
-At or before the conclusion of the course, the student should be able
-to:
+### At or before the conclusion of the course, the student should be able to:
 
--   recognize the key vocabulary employed by data science / mining
+-   >recognize the key vocabulary employed by data science / mining
 
--   ask key questions of a data science / mining team, allowing you to
+-   >ask key questions of a data science / mining team, allowing you to
     > use their results for your business expertise - display knowledge
     > and skills in the application of data warehouse and data mining
     > technologies and methodologies in business
 
--   understand and communicate the value of analytics across a variety
+-   >understand and communicate the value of analytics across a variety
     > of business functions
 
--   have the skills to understand and illustrate business challenges,
+-   >have the skills to understand and illustrate business challenges,
     > identify appropriate business data and apply data analytics to
     > address challenges and solve problems
 
--   demonstrate an understanding of big data and big data technologies
+-   >demonstrate an understanding of big data and big data technologies
     > as it applies to business data - present the knowledge and ability
     > to apply the data analytics lifecycle in operational and strategic
     > capacities - identify and apply different analytical modeling
@@ -119,22 +118,17 @@ from the course.
 GRADING POLICY:
 
 Your final grade will be determined by computing your scores (in
-different components of the course) as follows: [Course Component
-Weight]{.underline} [Individual or Group]{.underline}
+different components of the course) as follows: 
 
-Homework (4) 30% Individual
 
-Exams (2) 30% Individual
-
-Team Project 25% Group
-
-Participation 5% Individual
-
-Attendance 5% Individual
-
-Incentives/rewards 5% Individual
-
-Total 100%
+| Left-Aligned       | Count | Percent | Group or Individual |
+|:-------------------|:-----:|:-------:|--------------------:|
+| Homework           |   4   |   30%   |          Individual |
+| Exams              |   2   |   30%   |          Individual | 
+| Team Project       |   1   |   25%   |               Group | 
+| Participation      |  N/A  |   5%    |          Individual | 
+| Attendance         |  N/A  |   5%    |          Individual | 
+| Incentives/rewards |  N/A  |   5%    |          Individual | 
 
 **Grade Weight Numerical Definition Definition**
 
@@ -166,8 +160,8 @@ Total 100%
 
 **NR** 0.00 Not Reported
 
-Grades of \"P\" or \"F\" are awarded to courses with this grading scheme
-and carry academic credit. \"P\" or \"F\" grades do not calculate into
+Grades of "P" or "F" are awarded to courses with this grading scheme
+and carry academic credit. "P" or "F" grades do not calculate into
 the GPA.
 
 Wentworth does not offer students the option to audit a course; if a
@@ -209,8 +203,8 @@ workshops, and learning-strategy consultations. The peer-tutoring
 program is certified by the College Reading and Learning Association's
 International Tutor Training Certification program. To make an
 appointment or to review our drop-in offerings, please visit
-www.wit.edu/cae. For additional assistance or support on subjects not
-listed, please reach out via email at cae\@wit.edu.
+[CAE](www.wit.edu/cae). For additional assistance or support on subjects not
+listed, please reach out via email at [cae@wit.edu](mailto:cae@wit.edu).
 
 **ACADEMIC HONESTY STATEMENT:**
 
@@ -218,12 +212,12 @@ Students at Wentworth are expected to be honest and forthright in their
 academic endeavors. Academic dishonesty includes but is not limited to
 cheating, prohibited collaboration, coercion, inventing false
 information or citations, plagiarism, tampering with computers,
-destroying other people\'s coursework or lab or studio property, theft
+destroying other people's coursework or lab or studio property, theft
 of course materials, posting coursework/course materials to websites, or
 other academic misconduct. If you have any questions, contact your
 professor prior to submitting an assignment for evaluation. See your
 academic catalog for a full list of definitions and the WIT Academic
-Honesty website for the procedures: wit.edu/academic-honesty.
+Honesty website for the procedures: [academic-honesty](https://www.wit.edu/academic-honesty).
 
 **STUDENT ACCOUNTABILITY STATEMENT:**
 
@@ -241,9 +235,9 @@ health concerns, **The Center for Wellness (003 Watson Hall\*,
 If you or someone you know needs support around thoughts of suicide, the
 following resources are available:
 
-• The Center for Wellness, Watson 003\*, 617-989-4390, M-F 8:15-4:45
+• The Center for Wellness, Watson 003, 617-989-4390, M-F 8:15-4:45
 
-• BeWell\@WIT 24/7 telecounseling, 617-989-4390 option \#2
+• BeWell@WIT 24/7 telecounseling, 617-989-4390 option #2
 
 • Campus Police, First level of 610 Huntington Avenue, 617-989-4444,
 24/7
@@ -259,10 +253,9 @@ following resources are available:
 • Beth Israel Deaconess Emergency Room, 190 Pilgrim Rd Boston, MA
 
 Students requiring academic accommodations must provide an official
-accommodation memo from **The Center for Wellness (003 Watson Hall\*,
-617-989-4390)** and contact me privately to discuss logistics.
+accommodation memo from **The Center for Wellness** and contact me privately to discuss logistics.
 
-**\*** The Center for Wellness will be providing mental health
+**The Center for Wellness** will be providing mental health
 counseling sessions and accessibility services appointments virtually
 and appointments can be scheduled by calling 617-989-4390. The Center
 for Wellness is open for mental health emergencies. Additionally, 24/7
